@@ -1,4 +1,4 @@
-﻿# 00 â€” LEIA ANTES DE ALTERAR
+# 00 â€” LEIA ANTES DE ALTERAR
 
 Leitura obrigatÃ³ria para Charlie/ChatGPT em outro chat.
 
@@ -15,6 +15,7 @@ Antes de alterar este repertÃ³rio, leia:
 10. `ORIENTACOES/REGRA_SERVIDOR_LOCAL_PC_MVP_JUS9.md`
 11. `ORIENTACOES/REGRA_MEMORIA_INVESTIMENTOS_DASHBOARD_CLOVIS.md`
 12. `ORIENTACOES/REGRA_RENOME_ROTAS_PUBLICAS_E_VERIFICACAO_LINKS.md`
+13. `ORIENTACOES/REGRA_PACOTE_LEMBRANDO_BACKEND.md`
 
 Regras:
 - respeitar padrÃ£o visual aprovado;
@@ -29,6 +30,7 @@ Regras:
 - permitir computador pessoal como servidor local de MVP somente para teste controlado, sem dados reais e sem exposicao publica;
 - lembrar que investimento e Dashboard do Clovis sao frentes conectadas: investimentos em repertorio proprio e painel interno no admin;
 - ao renomear rota publica, atualizar arquivo, links, PWA, robots, sitemap, documentos, redirecionamentos e testar ausencia de referencias antigas;
+- registrar em `LEMBRANDO_BACKEND_PROXIMOS_PASSOS.md` tudo o que nao puder ser feito imediatamente sem backend seguro;
 - revisar seguranÃ§a e classificaÃ§Ã£o antes do commit.
 
 Â© Jus 9 Tecnologia JurÃ­dica â€” software livre, autoria preservada.
