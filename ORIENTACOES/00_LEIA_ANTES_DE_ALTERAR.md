@@ -13,6 +13,7 @@ Antes de alterar este repertÃ³rio, leia:
 8. `ORIENTACOES/REGRA_VOZ_FEMININA_CHARLIE_ECHO_E_RESPONSIVIDADE_MOBILE.md`
 9. `ORIENTACOES/REGRA_APP_MVP_E_ESCUTA_WHATSAPP_PRIVADA.md`
 10. `ORIENTACOES/REGRA_SERVIDOR_LOCAL_PC_MVP_JUS9.md`
+11. `ORIENTACOES/REGRA_MEMORIA_INVESTIMENTOS_DASHBOARD_CLOVIS.md`
 
 Regras:
 - respeitar padrÃ£o visual aprovado;
@@ -25,6 +26,7 @@ Regras:
 - usar Elefante Colorido como marcador mnemonico publico de memoria responsavel, sem trata-lo como senha, autenticacao ou autorizacao para revelar conteudo protegido;
 - usar `Contato@jus9tecnologia.com.br` e `5548999082726` como contato publico padrao da Jus 9, preservando e-mails funcionais/internos quando cabivel;
 - permitir computador pessoal como servidor local de MVP somente para teste controlado, sem dados reais e sem exposicao publica;
+- lembrar que investimento e Dashboard do Clovis sao frentes conectadas: investimentos em repertorio proprio e painel interno no admin;
 - revisar seguranÃ§a e classificaÃ§Ã£o antes do commit.
 
 Â© Jus 9 Tecnologia JurÃ­dica â€” software livre, autoria preservada.
