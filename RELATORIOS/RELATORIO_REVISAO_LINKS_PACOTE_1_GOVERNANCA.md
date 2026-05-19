@@ -17,7 +17,7 @@ Arquivos analisados: HTML, Markdown, CSS e JavaScript, ignorando pastas .git.
 | Aeon-Primevo | assets\images\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-180.png |
 | Aeon-Primevo | assets\images\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-192.png |
 | Aeon-Primevo | assets\images\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-512.png |
-| carta-jus9-tecnologia-juridica | script.js | app-demo.html |
+| carta-jus9-tecnologia-juridica | script.js | app-demo-advogar.html |
 | carta-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon.ico |
 | carta-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-32.png |
 | carta-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-16.png |
@@ -55,7 +55,7 @@ Arquivos analisados: HTML, Markdown, CSS e JavaScript, ignorando pastas .git.
 | jus9-tecnologia-juridica | origem-visual\index.html | ../lider-mvp |
 | jus9verde-jus9-tecnologia-juridica | charlie-echo-social.html | ../assets/css/charlie-echo-social.css |
 | jus9verde-jus9-tecnologia-juridica | charlie-echo-social.html | ../assets/js/charlie-echo-social.js |
-| livros-jus9-tecnologia-juridica | script.js | app-demo.html |
+| livros-jus9-tecnologia-juridica | script.js | app-demo-advogar.html |
 | livros-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon.ico |
 | livros-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-32.png |
 | livros-jus9-tecnologia-juridica | assets\jus9-favicons\README.md | assets/images/jus9-favicons/jus9-favicon-16.png |

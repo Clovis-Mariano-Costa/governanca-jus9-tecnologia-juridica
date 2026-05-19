@@ -14,6 +14,7 @@ Antes de alterar este repertÃ³rio, leia:
 9. `ORIENTACOES/REGRA_APP_MVP_E_ESCUTA_WHATSAPP_PRIVADA.md`
 10. `ORIENTACOES/REGRA_SERVIDOR_LOCAL_PC_MVP_JUS9.md`
 11. `ORIENTACOES/REGRA_MEMORIA_INVESTIMENTOS_DASHBOARD_CLOVIS.md`
+12. `ORIENTACOES/REGRA_RENOME_ROTAS_PUBLICAS_E_VERIFICACAO_LINKS.md`
 
 Regras:
 - respeitar padrÃ£o visual aprovado;
@@ -27,6 +28,7 @@ Regras:
 - usar `Contato@jus9tecnologia.com.br` e `5548999082726` como contato publico padrao da Jus 9, preservando e-mails funcionais/internos quando cabivel;
 - permitir computador pessoal como servidor local de MVP somente para teste controlado, sem dados reais e sem exposicao publica;
 - lembrar que investimento e Dashboard do Clovis sao frentes conectadas: investimentos em repertorio proprio e painel interno no admin;
+- ao renomear rota publica, atualizar arquivo, links, PWA, robots, sitemap, documentos, redirecionamentos e testar ausencia de referencias antigas;
 - revisar seguranÃ§a e classificaÃ§Ã£o antes do commit.
 
 Â© Jus 9 Tecnologia JurÃ­dica â€” software livre, autoria preservada.
