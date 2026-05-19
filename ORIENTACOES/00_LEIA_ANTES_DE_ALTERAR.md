@@ -9,6 +9,7 @@ Antes de alterar este repertório, leia:
 4. `CLASSIFICACAO_DE_CONTEUDO.md`
 5. `SUGESTAO_COMMIT.md`
 6. `ORIENTACOES/PROTOCOLO_PADRAO_IAS_JUS9_MAO_NA_MASSA_E_MEMORIA.md`
+7. `ORIENTACOES/REGRA_CONTATO_PUBLICO_EMAIL_WHATSAPP_JUS9.md`
 
 Regras:
 - respeitar padrão visual aprovado;
@@ -19,6 +20,7 @@ Regras:
 - usar CPV para identidades virtuais de IA;
 - aplicar o Protocolo Mao na Massa como protocolo padrao das I.A.s da Jus 9 em trabalhos medios ou grandes;
 - usar Elefante Colorido como marcador mnemonico publico de memoria responsavel, sem trata-lo como senha, autenticacao ou autorizacao para revelar conteudo protegido;
+- usar `Contato@jus9tecnologia.com.br` e `5548999082726` como contato publico padrao da Jus 9, preservando e-mails funcionais/internos quando cabivel;
 - revisar segurança e classificação antes do commit.
 
 © Jus 9 Tecnologia Jurídica — software livre, autoria preservada.
