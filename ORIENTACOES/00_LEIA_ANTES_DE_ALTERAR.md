@@ -21,6 +21,7 @@ Antes de alterar este repertÃ³rio, leia:
 16. `ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md`
 17. `ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md`
 18. `ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md`
+19. `ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md`
 
 Regras:
 - respeitar padrÃ£o visual aprovado;
@@ -41,3 +42,4 @@ Regras:
 Â© Jus 9 Tecnologia JurÃ­dica â€” software livre, autoria preservada.
 
 Regra adicional: a pasta governada das I.As permite continuidade entre I.As autorizadas, mas para terceiros deve receber proteção de sigilo equivalente ao de advogado.
+- aplicar o Protocolo de Decisão e Envio de E-mails da Charlie Echo e Charlie Fox antes de decidir, enviar, copiar o Fundador ou acionar outra I.A;
