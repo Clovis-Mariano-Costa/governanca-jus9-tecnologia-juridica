@@ -1,8 +1,8 @@
-﻿# 00 â€” LEIA ANTES DE ALTERAR
+﻿# 00 ? LEIA ANTES DE ALTERAR
 
-Leitura obrigatÃ³ria para Charlie/ChatGPT em outro chat.
+Leitura obrigatória para Charlie/ChatGPT em outro chat.
 
-Antes de alterar este repertÃ³rio, leia:
+Antes de alterar este repertório, leia:
 1. `ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md`
 2. `ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md`
 3. `SECURITY.md`
@@ -26,11 +26,11 @@ Antes de alterar este repertÃ³rio, leia:
 21. `ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md`
 
 Regras:
-- respeitar padrÃ£o visual aprovado;
-- inserir assinatura Â© quando cabÃ­vel;
-- nÃ£o publicar conteÃºdo sensÃ­vel;
-- nÃ£o reduzir Charlie Echo a â€œIA assistivaâ€;
-- apresentar Charlie Echo como IA generativa multimodal, conversacional e jurÃ­dico-orientada, com governanÃ§a humana;
+- respeitar padrão visual aprovado;
+- inserir assinatura ? quando cabível;
+- não publicar conteúdo sensível;
+- n?o reduzir Charlie Echo a ?IA assistiva?;
+- apresentar Charlie Echo como IA generativa multimodal, conversacional e jurídico-orientada, com governança humana;
 - usar CPV para identidades virtuais de IA;
 - aplicar o Protocolo Mao na Massa como protocolo padrao das I.A.s da Jus 9 em trabalhos medios ou grandes;
 - usar Elefante Colorido como marcador mnemonico publico de memoria responsavel, sem trata-lo como senha, autenticacao ou autorizacao para revelar conteudo protegido;
@@ -39,9 +39,9 @@ Regras:
 - lembrar que investimento e Dashboard do Clovis sao frentes conectadas: investimentos em repertorio proprio e painel interno no admin;
 - ao renomear rota publica, atualizar arquivo, links, PWA, robots, sitemap, documentos, redirecionamentos e testar ausencia de referencias antigas;
 - registrar em `LEMBRANDO_BACKEND_PROXIMOS_PASSOS.md` tudo o que nao puder ser feito imediatamente sem backend seguro;
-- revisar seguranÃ§a e classificaÃ§Ã£o antes do commit.
+- revisar segurança e classificação antes do commit.
 
-Â© Jus 9 Tecnologia JurÃ­dica â€” software livre, autoria preservada.
+? Jus 9 Tecnologia Jurídica ? software livre, autoria preservada.
 
 Regra adicional: a pasta governada das I.As permite continuidade entre I.As autorizadas, mas para terceiros deve receber proteção de sigilo equivalente ao de advogado.
 - aplicar o Protocolo de Decisão e Envio de E-mails da Charlie Echo e Charlie Fox antes de decidir, enviar, copiar o Fundador ou acionar outra I.A;
