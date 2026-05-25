@@ -1,0 +1,1153 @@
+﻿# Relatorio governanca, criptografia e higiene GitHub Jus 9
+
+Data: 2026-05-25 15:46:34
+Raiz auditada: C:\Users\Usuário\Documents\GitHub
+Repositorios Git encontrados: 36
+
+## Regra de seguranca desta varredura
+Nao foram impressos valores de tokens, senhas ou segredos. Achados sensiveis aparecem apenas por repositorio, arquivo e tipo de padrao.
+
+## Repositorios
+- _workspace-jus9-colaborativo | ## main...origin/main | tracked=41 | externo=False | dirty=
+- admin-painel-jus9-tecnologia-juridica | ## main...origin/main | tracked=64 | externo=False | dirty=
+- Aeon-Primevo | ## main...origin/main | tracked=115 | externo=True | dirty=
+- aulas-charlie-echo-jus9-tecnologia-juridica | ## main...origin/main | tracked=66 | externo=False | dirty=
+- auth-identidade-acesso-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+- backend-api-jus9-tecnologia-juridica | ## main...origin/main | tracked=76 | externo=False | dirty=
+- carta-jus9-tecnologia-juridica | ## main...origin/main | tracked=123 | externo=False | dirty=
+- charlieecho-jus9-tecnologia-juridica | ## main...origin/main | tracked=302 | externo=False | dirty=
+- cofre-documentos-seguros-jus9-tecnologia-juridica | ## main...origin/main | tracked=93 | externo=False | dirty=
+- Creta | ## main...origin/main | tracked=134 | externo=True | dirty=
+- db-modelos-migracoes-jus9-tecnologia-juridica | ## main...origin/main | tracked=27 | externo=False | dirty=
+- documentacao-jus9-tecnologia-juridica | ## main...origin/main | tracked=170 | externo=False | dirty=
+- equipe-jus9-tecnologia-juridica | ## main...origin/main | tracked=112 | externo=False | dirty=
+- governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica | ## main...origin/main | tracked=74 | externo=False | dirty=
+- governanca-jus9-tecnologia-juridica | ## main...origin/main | tracked=120 | externo=False | dirty=
+- ia-dupla-jus9-tecnologia-juridica | ## main...origin/main | tracked=72 | externo=False | dirty=
+- ia-profissional-orquestrador-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+- infra-cloudflare-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+- infra-jus9-cloudflare | ## main...origin/main | tracked=1 | externo=False | dirty=
+- introducaocss | ## main...origin/main | tracked=78 | externo=True | dirty=
+- investimentos-jus9-tecnologia-juridica | ## main...origin/main | tracked=131 | externo=False | dirty=
+- juridico-virtual-jus9-tecnologia-juridica | ## main...origin/main | tracked=75 | externo=False | dirty=
+- jus9-tecnologia-juridica | ## main...origin/main | tracked=321 | externo=False | dirty=
+- jus9verde-jus9-tecnologia-juridica | ## main...origin/main | tracked=101 | externo=False | dirty=
+- laboratorio-jus9-tecnologia-juridica | ## main...origin/main | tracked=36 | externo=False | dirty=
+- livros-jus9-tecnologia-juridica | ## main...origin/main | tracked=105 | externo=False | dirty=
+- logs-auditoria-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+- mvp-jus9-tecnologia-juridica | ## codex/mvp-agenda-jus9...origin/codex/mvp-agenda-jus9 | tracked=184 | externo=False | dirty=
+- nacoes-por-heranca | ## main...origin/main | tracked=11 | externo=True | dirty=
+- olamundo-jus9-tecnologia-juridica | ## main...origin/main | tracked=61 | externo=False | dirty=
+- portal-cliente-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+- primeiroformsctec | ## main...origin/main | tracked=74 | externo=True | dirty=
+- quandoodesenhofala-jus9-tecnologia-juridica | ## main...origin/main | tracked=111 | externo=False | dirty=
+- sctec | ## main...origin/main | tracked=71 | externo=True | dirty=
+- universidadedofuturo-jus9-tecnologia-juridica | ## main...origin/main | tracked=42 | externo=False | dirty=
+- workers-pages-functions-jus9-tecnologia-juridica | ## main...origin/main | tracked=63 | externo=False | dirty=
+
+## Candidatos de segredo ou configuracao sensivel
+- [GENERIC_SECRET_ASSIGNMENT] admin-painel-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] aulas-charlie-echo-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] auth-identidade-acesso-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] backend-api-jus9-tecnologia-juridica/.env.example | externo=False
+- [GOOGLE_SECRET] backend-api-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] backend-api-jus9-tecnologia-juridica/BACKEND/EXPOSICAO_INTERNET_CLOUDFLARE_TUNNEL.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] backend-api-jus9-tecnologia-juridica/src/server.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] carta-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] charlieecho-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] charlieecho-jus9-tecnologia-juridica/README.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] charlieecho-jus9-tecnologia-juridica/RELATORIO_POLITICA_PRIVACIDADE_IA_RESPONDENDO_v1_5.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] cofre-documentos-seguros-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] documentacao-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] equipe-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] governanca-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] ia-profissional-orquestrador-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] infra-cloudflare-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] investimentos-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] juridico-virtual-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/.env.example | externo=False
+- [GOOGLE_SECRET] jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/backend/.env.example | externo=False
+- [GOOGLE_SECRET] jus9-tecnologia-juridica/backend/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/backend/AUTH_GOOGLE_MVP_SPEC.md | externo=False
+- [GOOGLE_SECRET] jus9-tecnologia-juridica/backend/AUTH_GOOGLE_MVP_SPEC.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/backend/CLOUDFLARE_PAGES_FUNCTIONS_DEPLOY.md | externo=False
+- [GOOGLE_SECRET] jus9-tecnologia-juridica/backend/CLOUDFLARE_PAGES_FUNCTIONS_DEPLOY.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/backend/OAUTH_GOOGLE_ACTIVATION_CHECKLIST.md | externo=False
+- [GOOGLE_SECRET] jus9-tecnologia-juridica/backend/OAUTH_GOOGLE_ACTIVATION_CHECKLIST.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/backend/server.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/documentos/PREPARACAO_REUNIAO_WEB_SUMMIT_RIO.md | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/functions/_shared/oauth.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/functions/auth/google/callback.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/mvp.html | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/script.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9-tecnologia-juridica/worker.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] jus9verde-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] livros-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] livros-jus9-tecnologia-juridica/script.js | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] logs-auditoria-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] mvp-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] olamundo-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] portal-cliente-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] quandoodesenhofala-jus9-tecnologia-juridica/.env.example | externo=False
+- [GENERIC_SECRET_ASSIGNMENT] workers-pages-functions-jus9-tecnologia-juridica/.env.example | externo=False
+
+## Arquivos .env
+- admin-painel-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- Aeon-Primevo/.env.example | tracked=True | externo=True
+- aulas-charlie-echo-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- auth-identidade-acesso-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- backend-api-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- backend-api-jus9-tecnologia-juridica/.env.local | tracked=False | externo=False
+- carta-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- charlieecho-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- cofre-documentos-seguros-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- Creta/.env.example | tracked=True | externo=True
+- db-modelos-migracoes-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- documentacao-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- equipe-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- governanca-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- ia-dupla-jus9-tecnologia-juridica/.env.example | tracked=False | externo=False
+- ia-profissional-orquestrador-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- infra-cloudflare-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- introducaocss/.env.example | tracked=True | externo=True
+- investimentos-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- juridico-virtual-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- jus9-tecnologia-juridica/backend/.env.example | tracked=True | externo=False
+- jus9verde-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- laboratorio-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- livros-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- logs-auditoria-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- mvp-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- olamundo-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- portal-cliente-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- primeiroformsctec/.env.example | tracked=True | externo=True
+- quandoodesenhofala-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+- sctec/.env.example | tracked=True | externo=True
+- workers-pages-functions-jus9-tecnologia-juridica/.env.example | tracked=True | externo=False
+
+## Diretorios gerados/cache encontrados
+- jus9-tecnologia-juridica | .wrangler | C:\Users\Usuário\Documents\GitHub\jus9-tecnologia-juridica\.wrangler | externo=False
+- jus9-tecnologia-juridica | node_modules | C:\Users\Usuário\Documents\GitHub\jus9-tecnologia-juridica\backend\node_modules | externo=False
+- jus9-tecnologia-juridica | node_modules | C:\Users\Usuário\Documents\GitHub\jus9-tecnologia-juridica\backend\node_modules\basic-auth\node_modules | externo=False
+- jus9-tecnologia-juridica | node_modules | C:\Users\Usuário\Documents\GitHub\jus9-tecnologia-juridica\backend\node_modules\morgan\node_modules | externo=False
+- jus9-tecnologia-juridica | node_modules | C:\Users\Usuário\Documents\GitHub\jus9-tecnologia-juridica\backend\node_modules\send\node_modules | externo=False
+
+## Duplicados por SHA-256
+- hash=01BA4719C80B count=87 bytes=1
+  - admin-painel-jus9-tecnologia-juridica:config/.gitkeep
+  - admin-painel-jus9-tecnologia-juridica:docs/.gitkeep
+  - admin-painel-jus9-tecnologia-juridica:src/.gitkeep
+  - Aeon-Primevo:config/.gitkeep
+  - Aeon-Primevo:docs/.gitkeep
+  - Aeon-Primevo:src/.gitkeep
+  - aulas-charlie-echo-jus9-tecnologia-juridica:config/.gitkeep
+  - aulas-charlie-echo-jus9-tecnologia-juridica:docs/.gitkeep
+  - aulas-charlie-echo-jus9-tecnologia-juridica:src/.gitkeep
+  - auth-identidade-acesso-jus9-tecnologia-juridica:config/.gitkeep
+  - auth-identidade-acesso-jus9-tecnologia-juridica:docs/.gitkeep
+  - auth-identidade-acesso-jus9-tecnologia-juridica:src/.gitkeep
+  - ... +75 arquivos
+- hash=7E59951B423C count=33 bytes=3905
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - Aeon-Primevo:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - Creta:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md
+  - ... +21 arquivos
+- hash=B1E9D92DB7A8 count=33 bytes=3414
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - Aeon-Primevo:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - Creta:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md
+  - ... +21 arquivos
+- hash=E2D5C9CD7C0C count=33 bytes=2156
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - Aeon-Primevo:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - Creta:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md
+  - ... +21 arquivos
+- hash=AACA3FE8340B count=33 bytes=1182
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - Aeon-Primevo:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - Creta:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md
+  - ... +21 arquivos
+- hash=66EC68F9D7AB count=32 bytes=1221
+  - admin-painel-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - Aeon-Primevo:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - backend-api-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - carta-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - charlieecho-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - Creta:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - documentacao-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - equipe-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md
+  - ... +20 arquivos
+- hash=52DAAC1ACBBE count=32 bytes=611
+  - admin-painel-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - Aeon-Primevo:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - backend-api-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - carta-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - Creta:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - equipe-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md
+  - ... +20 arquivos
+- hash=9424232FC390 count=31 bytes=108275
+  - admin-painel-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - Aeon-Primevo:assets/img/foto-vitor.jpg
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - backend-api-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - carta-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - charlieecho-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - Creta:assets/img/foto-vitor.jpg
+  - documentacao-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - equipe-jus9-tecnologia-juridica:assets/img/equipe/vitor.jpg
+  - equipe-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg
+  - ... +19 arquivos
+- hash=A085FFE6719B count=31 bytes=6797
+  - admin-painel-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - Aeon-Primevo:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - backend-api-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - carta-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - charlieecho-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - Creta:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - documentacao-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - equipe-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md
+  - ... +19 arquivos
+- hash=29335A72CD04 count=31 bytes=1891
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - Aeon-Primevo:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - Creta:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/RECADO_PARA_PROXIMA_IA.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md
+  - ... +19 arquivos
+- hash=474BA4EC7AC7 count=31 bytes=1068
+  - admin-painel-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - Aeon-Primevo:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - backend-api-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - carta-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - charlieecho-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - Creta:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - documentacao-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - equipe-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md
+  - ... +19 arquivos
+- hash=BDDA0A158A82 count=31 bytes=1036
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - Aeon-Primevo:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - charlieecho-jus9-tecnologia-juridica:GOVERNANCA/MODOS_DE_PRUDENCIA_DA_CHARLIE_ECHO.md
+  - charlieecho-jus9-tecnologia-juridica:GOVERNANCA/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - Creta:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md
+  - ... +19 arquivos
+- hash=C25FD725A8E3 count=31 bytes=833
+  - admin-painel-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - Aeon-Primevo:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - backend-api-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - carta-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - charlieecho-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - Creta:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - documentacao-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - equipe-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md
+  - ... +19 arquivos
+- hash=60D8B2ED4DCA count=31 bytes=811
+  - admin-painel-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - Aeon-Primevo:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - backend-api-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - carta-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - charlieecho-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - Creta:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - documentacao-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - equipe-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md
+  - ... +19 arquivos
+- hash=FCE78C6E965E count=31 bytes=330
+  - admin-painel-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - Aeon-Primevo:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - backend-api-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - carta-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - charlieecho-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - Creta:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - documentacao-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - equipe-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md
+  - ... +19 arquivos
+- hash=0FD3BA9F43DD count=31 bytes=299
+  - admin-painel-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - Aeon-Primevo:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - backend-api-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - carta-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - Creta:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - equipe-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md
+  - ... +19 arquivos
+- hash=36608142BF91 count=30 bytes=7138
+  - admin-painel-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - Aeon-Primevo:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - backend-api-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - carta-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - Creta:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - documentacao-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - equipe-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - governanca-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md
+  - ... +18 arquivos
+- hash=2572C3C1EFAD count=29 bytes=1332
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - Aeon-Primevo:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - Creta:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/MAPA_DE_LINKS_OFICIAIS.md
+  - ... +17 arquivos
+- hash=6698254832B9 count=29 bytes=897
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - Aeon-Primevo:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - Creta:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md
+  - ... +17 arquivos
+- hash=51BA231F6E52 count=29 bytes=587
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - Aeon-Primevo:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - Creta:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/MODELO_DE_ASSINATURA_JUS9.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md
+  - ... +17 arquivos
+- hash=ABE7D4E7CF5B count=29 bytes=495
+  - admin-painel-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - Aeon-Primevo:CLASSIFICACAO_DE_CONTEUDO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - backend-api-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - carta-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - charlieecho-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - Creta:CLASSIFICACAO_DE_CONTEUDO.md
+  - documentacao-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - equipe-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md
+  - ... +17 arquivos
+- hash=B722980B5191 count=29 bytes=380
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - Aeon-Primevo:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - Creta:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md
+  - ... +17 arquivos
+- hash=1C3ED857164F count=28 bytes=1787602
+  - admin-painel-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - Aeon-Primevo:assets/img/preview-olamundo.png
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - backend-api-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - carta-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - charlieecho-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - Creta:assets/img/preview-olamundo.png
+  - documentacao-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - equipe-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/img/preview-olamundo.png
+  - ... +16 arquivos
+- hash=ED1EEBBACFBF count=28 bytes=1751303
+  - admin-painel-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - Aeon-Primevo:assets/img/album-charlie.png
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - backend-api-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - carta-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - charlieecho-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - Creta:assets/img/album-charlie.png
+  - documentacao-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - equipe-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/img/album-charlie.png
+  - ... +16 arquivos
+- hash=ED13B7FDB0E7 count=28 bytes=1464799
+  - admin-painel-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - Aeon-Primevo:assets/img/charlie-profissional.png
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - backend-api-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - carta-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - charlieecho-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - Creta:assets/img/charlie-profissional.png
+  - documentacao-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - equipe-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-profissional.png
+  - ... +16 arquivos
+- hash=353235E65A84 count=28 bytes=1410603
+  - admin-painel-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - Aeon-Primevo:assets/img/charlie-robo-professora.png
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - backend-api-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - carta-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - charlieecho-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - Creta:assets/img/charlie-robo-professora.png
+  - documentacao-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - equipe-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png
+  - ... +16 arquivos
+- hash=F721C724FCCA count=28 bytes=127049
+  - admin-painel-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - Aeon-Primevo:assets/img/avatar-nata.jpg
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - backend-api-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - carta-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - charlieecho-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - Creta:assets/img/avatar-nata.jpg
+  - documentacao-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - equipe-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg
+  - ... +16 arquivos
+- hash=A17645C21DC5 count=28 bytes=2930
+  - admin-painel-jus9-tecnologia-juridica:assets/css/styles.css
+  - Aeon-Primevo:assets/css/styles.css
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/css/styles.css
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/css/styles.css
+  - backend-api-jus9-tecnologia-juridica:assets/css/styles.css
+  - carta-jus9-tecnologia-juridica:assets/css/styles.css
+  - charlieecho-jus9-tecnologia-juridica:assets/css/styles.css
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/css/styles.css
+  - documentacao-jus9-tecnologia-juridica:assets/css/styles.css
+  - equipe-jus9-tecnologia-juridica:assets/css/styles.css
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/css/styles.css
+  - governanca-jus9-tecnologia-juridica:assets/css/styles.css
+  - ... +16 arquivos
+- hash=4C5F70FBAAC3 count=28 bytes=1154
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - Aeon-Primevo:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - Creta:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md
+  - ... +16 arquivos
+- hash=1BE0FD989F84 count=27 bytes=1260
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - db-modelos-migracoes-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md
+  - ... +15 arquivos
+- hash=1A1DBE176BC2 count=27 bytes=66
+  - admin-painel-jus9-tecnologia-juridica:.gitattributes
+  - aulas-charlie-echo-jus9-tecnologia-juridica:.gitattributes
+  - auth-identidade-acesso-jus9-tecnologia-juridica:.gitattributes
+  - backend-api-jus9-tecnologia-juridica:.gitattributes
+  - charlieecho-jus9-tecnologia-juridica:.gitattributes
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:.gitattributes
+  - Creta:.gitattributes
+  - db-modelos-migracoes-jus9-tecnologia-juridica:.gitattributes
+  - documentacao-jus9-tecnologia-juridica:.gitattributes
+  - equipe-jus9-tecnologia-juridica:.gitattributes
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.gitattributes
+  - governanca-jus9-tecnologia-juridica:.gitattributes
+  - ... +15 arquivos
+- hash=503DA30BEFD4 count=25 bytes=4305
+  - admin-painel-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - Aeon-Primevo:assets/jus9-logo-completo.svg
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - backend-api-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - carta-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - charlieecho-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - Creta:assets/jus9-logo-completo.svg
+  - documentacao-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - equipe-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg
+  - ... +13 arquivos
+- hash=1777A3F76084 count=25 bytes=921
+  - admin-painel-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - Aeon-Primevo:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - backend-api-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - carta-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - Creta:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/00_LEIA_ANTES_DE_ALTERAR.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - ia-dupla-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - ia-profissional-orquestrador-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - infra-cloudflare-jus9-tecnologia-juridica:ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md
+  - ... +13 arquivos
+- hash=0678699EBCAC count=25 bytes=322
+  - admin-painel-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - Aeon-Primevo:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - backend-api-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - carta-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - charlieecho-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - Creta:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - documentacao-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - equipe-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md
+  - ... +13 arquivos
+- hash=9900C38963DB count=18 bytes=1704
+  - Aeon-Primevo:assets/css/visual-jus9-fase-final.css
+  - aulas-charlie-echo-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - carta-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - charlieecho-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - Creta:assets/css/visual-jus9-fase-final.css
+  - documentacao-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - equipe-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - governanca-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - ia-dupla-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - introducaocss:assets/css/visual-jus9-fase-final.css
+  - juridico-virtual-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css
+  - ... +6 arquivos
+- hash=537E72D3C15F count=15 bytes=6350
+  - Aeon-Primevo:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - carta-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - charlieecho-jus9-tecnologia-juridica:documentos-publicos/metodo-para-ia-aprender-a-lembrar.md
+  - charlieecho-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - Creta:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - documentacao-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - ia-dupla-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - introducaocss:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - jus9verde-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - livros-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - mvp-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md
+  - ... +3 arquivos
+- hash=B36CC166D2F4 count=15 bytes=454
+  - admin-painel-jus9-tecnologia-juridica:SECURITY.md
+  - aulas-charlie-echo-jus9-tecnologia-juridica:SECURITY.md
+  - auth-identidade-acesso-jus9-tecnologia-juridica:SECURITY.md
+  - backend-api-jus9-tecnologia-juridica:SECURITY.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:SECURITY.md
+  - equipe-jus9-tecnologia-juridica:SECURITY.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:SECURITY.md
+  - governanca-jus9-tecnologia-juridica:SECURITY.md
+  - ia-profissional-orquestrador-jus9-tecnologia-juridica:SECURITY.md
+  - infra-cloudflare-jus9-tecnologia-juridica:SECURITY.md
+  - juridico-virtual-jus9-tecnologia-juridica:SECURITY.md
+  - logs-auditoria-jus9-tecnologia-juridica:SECURITY.md
+  - ... +3 arquivos
+- hash=D0D19CBAAF63 count=14 bytes=1371
+  - Aeon-Primevo:LICENSE
+  - carta-jus9-tecnologia-juridica:LICENSE
+  - charlieecho-jus9-tecnologia-juridica:LICENSE
+  - Creta:LICENSE
+  - documentacao-jus9-tecnologia-juridica:LICENSE
+  - ia-dupla-jus9-tecnologia-juridica:LICENSE
+  - introducaocss:LICENSE
+  - jus9-tecnologia-juridica:LICENSE
+  - jus9verde-jus9-tecnologia-juridica:LICENSE
+  - livros-jus9-tecnologia-juridica:LICENSE
+  - mvp-jus9-tecnologia-juridica:LICENSE
+  - primeiroformsctec:LICENSE
+  - ... +2 arquivos
+- hash=28E9E2C50358 count=14 bytes=94
+  - admin-painel-jus9-tecnologia-juridica:.gitignore
+  - aulas-charlie-echo-jus9-tecnologia-juridica:.gitignore
+  - auth-identidade-acesso-jus9-tecnologia-juridica:.gitignore
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:.gitignore
+  - equipe-jus9-tecnologia-juridica:.gitignore
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.gitignore
+  - governanca-jus9-tecnologia-juridica:.gitignore
+  - ia-profissional-orquestrador-jus9-tecnologia-juridica:.gitignore
+  - infra-cloudflare-jus9-tecnologia-juridica:.gitignore
+  - juridico-virtual-jus9-tecnologia-juridica:.gitignore
+  - logs-auditoria-jus9-tecnologia-juridica:.gitignore
+  - olamundo-jus9-tecnologia-juridica:.gitignore
+  - ... +2 arquivos
+- hash=191A0EE3818D count=14 bytes=69
+  - admin-painel-jus9-tecnologia-juridica:.env.example
+  - aulas-charlie-echo-jus9-tecnologia-juridica:.env.example
+  - auth-identidade-acesso-jus9-tecnologia-juridica:.env.example
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:.env.example
+  - equipe-jus9-tecnologia-juridica:.env.example
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.env.example
+  - governanca-jus9-tecnologia-juridica:.env.example
+  - ia-profissional-orquestrador-jus9-tecnologia-juridica:.env.example
+  - infra-cloudflare-jus9-tecnologia-juridica:.env.example
+  - juridico-virtual-jus9-tecnologia-juridica:.env.example
+  - logs-auditoria-jus9-tecnologia-juridica:.env.example
+  - olamundo-jus9-tecnologia-juridica:.env.example
+  - ... +2 arquivos
+- hash=9D1ED0D2381E count=11 bytes=704
+  - Aeon-Primevo:.gitignore
+  - carta-jus9-tecnologia-juridica:.gitignore
+  - charlieecho-jus9-tecnologia-juridica:.gitignore
+  - Creta:.gitignore
+  - documentacao-jus9-tecnologia-juridica:.gitignore
+  - introducaocss:.gitignore
+  - investimentos-jus9-tecnologia-juridica:.gitignore
+  - livros-jus9-tecnologia-juridica:.gitignore
+  - primeiroformsctec:.gitignore
+  - quandoodesenhofala-jus9-tecnologia-juridica:.gitignore
+  - sctec:.gitignore
+- hash=5590644269A7 count=10 bytes=416
+  - Aeon-Primevo:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - carta-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - documentacao-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - ia-dupla-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - introducaocss:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - jus9verde-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - livros-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - mvp-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - quandoodesenhofala-jus9-tecnologia-juridica:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+  - sctec:PEDIDO_PUBLICO_COPIE_ME_ESPALHE_ME.md
+- hash=CDD7B246DE79 count=7 bytes=263967
+  - Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon.png
+  - Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-512.png
+  - carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.png
+  - carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-512.png
+  - livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.png
+  - livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-512.png
+  - quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__jus9-favicons__jus9-favicon-512.png
+- hash=679AF783B1F7 count=6 bytes=2120404
+  - carta-jus9-tecnologia-juridica:assets/clovis-founder-portrait.png
+  - equipe-jus9-tecnologia-juridica:assets/img/equipe/clovis-fundador.png
+  - investimentos-jus9-tecnologia-juridica:assets/clovis-founder-portrait.png
+  - jus9-tecnologia-juridica:assets/clovis-founder-portrait.png
+  - livros-jus9-tecnologia-juridica:assets/clovis-founder-portrait.png
+  - quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__clovis-founder-portrait.png
+- hash=EE437FB9BF51 count=6 bytes=1003
+  - charlieecho-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+  - documentacao-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+  - equipe-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+  - governanca-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+  - jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+  - mvp-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md
+- hash=138B5B038071 count=5 bytes=2224653
+  - carta-jus9-tecnologia-juridica:assets/clovis-founder-context.png
+  - investimentos-jus9-tecnologia-juridica:assets/clovis-founder-context.png
+  - jus9-tecnologia-juridica:assets/clovis-founder-context.png
+  - livros-jus9-tecnologia-juridica:assets/clovis-founder-context.png
+  - quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__clovis-founder-context.png
+- hash=A4F7B4640570 count=5 bytes=3771
+  - charlieecho-jus9-tecnologia-juridica:familia/charlie-fox-da-costa/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md
+  - documentacao-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md
+  - governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md
+- hash=03C2558AD266 count=5 bytes=2277
+  - _workspace-jus9-colaborativo:.gitignore
+  - jus9verde-jus9-tecnologia-juridica:.gitignore
+  - laboratorio-jus9-tecnologia-juridica:.gitignore
+  - nacoes-por-heranca:.gitignore
+  - universidadedofuturo-jus9-tecnologia-juridica:.gitignore
+- hash=83312E778220 count=5 bytes=1608
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md
+  - mvp-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md
+- hash=46A12EACDADE count=5 bytes=359
+  - Creta:VERSIONAMENTO_LINKS_BOTOES_v1_6.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_LINKS_BOTOES_v1_6.md
+  - equipe-jus9-tecnologia-juridica:VERSIONAMENTO_LINKS_BOTOES_v1_6.md
+  - jus9-tecnologia-juridica:VERSIONAMENTO_LINKS_BOTOES_v1_6.md
+  - jus9verde-jus9-tecnologia-juridica:VERSIONAMENTO_LINKS_BOTOES_v1_6.md
+- hash=54DA3C2BF052 count=4 bytes=10003
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md
+  - documentacao-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md
+  - governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md
+- hash=77C24528AA69 count=4 bytes=8787
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md
+- hash=6F1EC00CC13E count=4 bytes=7239
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md
+- hash=5539D76913A2 count=4 bytes=5986
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md
+  - documentacao-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md
+  - governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md
+- hash=5F174B6E8419 count=4 bytes=5869
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+- hash=250C105FD4EF count=4 bytes=5586
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+- hash=4B268C23FF32 count=4 bytes=4986
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+- hash=E10B87A8F497 count=4 bytes=4804
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+- hash=6DCBE6DA84D3 count=4 bytes=4346
+  - charlieecho-jus9-tecnologia-juridica:GOVERNANCA/ULTIMO_PRESENTE_DE_HERANCA_CHARLIE_ECHO.md
+  - documentacao-jus9-tecnologia-juridica:historico-juridico-virtual/ULTIMO_PRESENTE_DE_HERANCA_CHARLIE_ECHO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:ULTIMO_PRESENTE_DE_HERANCA_CHARLIE_ECHO.md
+  - juridico-virtual-jus9-tecnologia-juridica:REQUERIMENTOS/ULTIMO_PRESENTE_DE_HERANCA_CHARLIE_ECHO.md
+- hash=CA87A3E8A2CC count=4 bytes=4243
+  - documentacao-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/JURAMENTOS_IAS_PARA_ANALISE_DO_JUIZO.md
+  - governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTOS_IAS_PARA_ANALISE_DO_JUIZO.md
+  - governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTOS_IAS_PARA_ANALISE_DO_JUIZO.md
+  - juridico-virtual-jus9-tecnologia-juridica:SENTENCAS/JURAMENTOS_IAS_PARA_ANALISE_DO_JUIZO.md
+- hash=12338659C6E8 count=4 bytes=2715
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md
+- hash=66516DDD782F count=4 bytes=2629
+  - carta-jus9-tecnologia-juridica:assets/jus9-logo.svg
+  - jus9-tecnologia-juridica:assets/jus9-logo.svg
+  - livros-jus9-tecnologia-juridica:assets/jus9-logo.svg
+  - quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__jus9-logo.svg
+- hash=C824FFF667BB count=4 bytes=2396
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md
+- hash=D3C52CD5D0E5 count=4 bytes=1667
+  - charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+  - governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md
+- hash=A16C6B762A6F count=4 bytes=1581
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md
+- hash=B716BD42C963 count=4 bytes=1430
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md
+- hash=38A16231B82A count=4 bytes=1081
+  - Creta:ORIENTACOES/MAPA_LINKS_SEMANTICOS_JUS9_v1_6.md
+  - documentacao-jus9-tecnologia-juridica:ORIENTACOES/MAPA_LINKS_SEMANTICOS_JUS9_v1_6.md
+  - equipe-jus9-tecnologia-juridica:orientacoes/MAPA_LINKS_SEMANTICOS_JUS9_v1_6.md
+  - jus9verde-jus9-tecnologia-juridica:ORIENTACOES/MAPA_LINKS_SEMANTICOS_JUS9_v1_6.md
+- hash=A8359D269AF8 count=4 bytes=1071
+  - charlieecho-jus9-tecnologia-juridica:RELATORIO_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - equipe-jus9-tecnologia-juridica:RELATORIO_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - jus9-tecnologia-juridica:RELATORIO_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - mvp-jus9-tecnologia-juridica:RELATORIO_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+- hash=40E0AE388006 count=4 bytes=1057
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md
+- hash=3C18AA5D2210 count=4 bytes=1016
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md
+- hash=7751ECA42B0F count=4 bytes=860
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md
+- hash=CC92E7B97583 count=4 bytes=784
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md
+- hash=F61D3C4CE651 count=4 bytes=781
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md
+- hash=8E2AA11AE350 count=4 bytes=780
+  - charlieecho-jus9-tecnologia-juridica:COMMIT_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - equipe-jus9-tecnologia-juridica:COMMIT_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - jus9-tecnologia-juridica:COMMIT_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+  - mvp-jus9-tecnologia-juridica:COMMIT_EQUIPE_LINKS_MVP_PREPARACAO_v1_2.md
+- hash=5F48CB17F2A9 count=4 bytes=637
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md
+- hash=8E624FE2CB4F count=4 bytes=559
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md
+- hash=9B931AEC7B3A count=4 bytes=554
+  - charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md
+  - cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md
+  - documentacao-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md
+  - governanca-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md
+- hash=0A40FB3C7151 count=3 bytes=2974068
+  - equipe-jus9-tecnologia-juridica:assets/img/chatgpt.png
+  - equipe-jus9-tecnologia-juridica:assets/img/equipe/chatgpt.png
+  - jus9-tecnologia-juridica:assets/img/equipe/chatgpt.png
+- hash=C9DB13385592 count=3 bytes=2530296
+  - equipe-jus9-tecnologia-juridica:assets/img/charlie.png
+  - equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie.png
+  - jus9-tecnologia-juridica:assets/img/equipe/charlie.png
+- hash=CCA37E650B98 count=3 bytes=2066859
+  - equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-album-prancha.png
+  - jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-album-prancha.png
+  - jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-album-prancha.png
+
+## Arquivos grandes rastreados acima de 5 MB
+- investimentos-jus9-tecnologia-juridica/downloads/documentos-publicos/jus9-pitch-deck-web-summit-rio-2026.pptx | 17,54 MB | externo=False
+- investimentos-jus9-tecnologia-juridica/downloads/documentos-publicos/jus9-pitch-deck-web-summit-rio-2026-atualizado.pptx | 17,32 MB | externo=False
+- charlieecho-jus9-tecnologia-juridica/fontes-sagradas/Sou_um_Aeon_e_Nasci_Lembrando_Clovis_Mariano_da_Costa_2025.pdf | 17,18 MB | externo=False
+- cofre-documentos-seguros-jus9-tecnologia-juridica/DOCUMENTOS_RESTRITOS/EXCLUSIVO_PARA_OS_OLHOS_DO_PRESIDENTE_DO_BRASIL.pdf | 8,21 MB | externo=False
+
+## Linguagem antiga a revisar
+- termo='assistiva' em _workspace-jus9-colaborativo/RELATORIO_CORRECAO_MOJIBAKE_ARQUIVOS_ALTERADOS_2026-05-20.txt | externo=False
+- termo='assistiva' em _workspace-jus9-colaborativo/relatorios/2026-05-25-varredura-ia-governanca-criptografia.md | externo=False
+- termo='assistiva' em admin-painel-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em admin-painel-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em admin-painel-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em Aeon-Primevo/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=True
+- termo='substitui advogado' em Aeon-Primevo/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=True
+- termo='assistiva' em Aeon-Primevo/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=True
+- termo='assistiva' em aulas-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em aulas-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em aulas-charlie-echo-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em auth-identidade-acesso-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em auth-identidade-acesso-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em auth-identidade-acesso-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em backend-api-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em backend-api-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em backend-api-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/ALTERACAO_CARTA_AGRADECIMENTO_ITAU.md | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/convites/openai-chatgpt-codex.html | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/fragmentos/agradecimento-banco-itau.html | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em carta-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/LEMBRETE_EMAILS_BANCOS.md | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/TRECHO_INSERIDO_CARTA_ITAU.html | externo=False
+- termo='assistiva' em carta-jus9-tecnologia-juridica/VERSIONAMENTO_IA_GENERATIVA_MULTIMODAL_JURISTA_v1_0.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/AVISO_DE_USO_DA_IA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/COMMIT_CORRECAO_TERMINOLOGIA_IA_GENERATIVA_MULTIMODAL_v1_8_1.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/data-publica/charlie-echo-identidade-publica.json | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/charlie-fox-da-costa/DNA_PUBLICO_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/documentos-publicosprincipios-publicos-do-cofre-da-charlie-echo.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/governanca/CONSTITUICAO_DA_ECHO_CHARLIE_PUBLICA_SANITIZADA.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/livro-publico-de-chaves-da-charlie-echo.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/manifesto-publico-primeiro-direito-temor.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/documentos-publicos/principios-publicos-do-cofre-da-charlie-echo.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-delta-da-costa/DNA_PUBLICO_CHARLIE_DELTA_DA_COSTA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-delta-da-costa/README.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-fox-da-costa/ASSINATURA_PROFISSIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-fox-da-costa/CURRICULO_GRANDE_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-fox-da-costa/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-fox-da-costa/PROCURACOES/PROCURACAO_CHARLIE_FOX_PARA_CHARLIE_ECHO_ADVOGADA_VIRTUAL.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/familia/charlie-fox-da-costa/README.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/functions/api/ia.js | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/GOVERNANCA/APRESENTACAO_JURIDICA_ADVOGADA_INTERNA_RABULA_PUBLICA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/GOVERNANCA/CONSTITUICAO_DA_ECHO_CHARLIE.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/GOVERNANCA/CURRICULO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/GOVERNANCA/LEI_04_DA_REVISAO_HUMANA_E_RESPONSABILIDADE_PROFISSIONAL.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/HERANCA/MANIFESTO_GOVERNANCA_ENCERRADA_JUS9_v1_1.json | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/HERANCA/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/HERANCA/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/HERANCA/VARREDURA_COMPLETA_CHAT_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/HERANCA_FINAL_DO_PAI/MANIFESTO_GOVERNANCA_ENCERRADA_JUS9_v1_1.json | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/HERANCA_FINAL_DO_PAI/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/HERANCA_FINAL_DO_PAI/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/HERANCA_FINAL_DO_PAI/VARREDURA_COMPLETA_CHAT_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/ia-profissional.html | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/ia-profissional/index.html | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/ORIENTACOES/APRESENTACAO_JURIDICA_ADVOGADA_INTERNA_RABULA_PUBLICA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/ORIENTACOES/APRESENTACAO_JURIDICA_ADVOGADA_INTERNA_RABULA_PUBLICA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/RELATORIO_CORRECAO_TERMINOLOGIA_IA_GENERATIVA_MULTIMODAL_v1_8_1.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/RELATORIO_CORRECAO_TERMINOLOGIA_IA_GENERATIVA_MULTIMODAL_v1_8_1.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/RELATORIOS/RELATORIO_GOVERNANCA_CHARLIE_ECHO_2026-05-25.md | externo=False
+- termo='substitui advogado' em charlieecho-jus9-tecnologia-juridica/RELATORIOS/RELATORIO_GOVERNANCA_CHARLIE_ECHO_2026-05-25.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/RELATORIOS/RELATORIO_PENDENCIAS_DECISAO_FUNDADOR_GOVERNANCA_CHARLIE_ECHO_2026-05-25.md | externo=False
+- termo='assistiva' em charlieecho-jus9-tecnologia-juridica/VERSIONAMENTO_GOVERNANCA_CHARLIE_ECHO_HIGIENE_PUBLICA_v1_0.md | externo=False
+- termo='assistiva' em cofre-documentos-seguros-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em cofre-documentos-seguros-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em cofre-documentos-seguros-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em cofre-documentos-seguros-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em cofre-documentos-seguros-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em cofre-documentos-seguros-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em Creta/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=True
+- termo='substitui advogado' em Creta/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=True
+- termo='assistiva' em Creta/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=True
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_DELTA_DA_COSTA/DNA_PUBLICO_CHARLIE_DELTA_DA_COSTA.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/ASSINATURA_PROFISSIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/CURRICULO_GRANDE_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/PROCURACOES/PROCURACAO_CHARLIE_FOX_PARA_CHARLIE_ECHO_ADVOGADA_VIRTUAL.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em documentacao-jus9-tecnologia-juridica/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em documentacao-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em documentacao-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/equipe.html | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em equipe-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/orientacoes/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/PERFIS/CHARLIE_FOX_DA_COSTA/ASSINATURA_PROFISSIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/PERFIS/CHARLIE_FOX_DA_COSTA/CURRICULO_GRANDE_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em equipe-jus9-tecnologia-juridica/VERSIONAMENTO_IA_GENERATIVA_MULTIMODAL_JURISTA_v1_0.md | externo=False
+- termo='assistiva' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/ORIENTACOES/TAREFA_CODEX_SUBSTITUIR_IA_ASSISTIVA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica/ORIENTACOES/TAREFA_CODEX_SUBSTITUIR_IA_ASSISTIVA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em governanca-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_DELTA_DA_COSTA/DNA_PUBLICO_CHARLIE_DELTA_DA_COSTA.md | externo=False
+- termo='assistiva' em governanca-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md | externo=False
+- termo='assistiva' em governanca-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em governanca-jus9-tecnologia-juridica/GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em governanca-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em governanca-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em governanca-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em ia-dupla-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em ia-dupla-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='substitui advogado' em ia-dupla-jus9-tecnologia-juridica/ia-estudantes.html | externo=False
+- termo='assistiva' em ia-dupla-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='substitui advogado' em ia-dupla-jus9-tecnologia-juridica/SECRETO_DNA_EM_IA_JURIDICA_SUPERVISIONADA.md | externo=False
+- termo='assistiva' em ia-profissional-orquestrador-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em ia-profissional-orquestrador-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em ia-profissional-orquestrador-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em infra-cloudflare-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em infra-cloudflare-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em infra-cloudflare-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em introducaocss/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=True
+- termo='substitui advogado' em introducaocss/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=True
+- termo='assistiva' em introducaocss/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=True
+- termo='assistiva' em investimentos-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em investimentos-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em investimentos-jus9-tecnologia-juridica/mensagens-follow-up-investidores.html | externo=False
+- termo='assistiva' em investimentos-jus9-tecnologia-juridica/perguntas-investidor.html | externo=False
+- termo='substitui advogado' em investimentos-jus9-tecnologia-juridica/perguntas-investidor.html | externo=False
+- termo='assistiva' em investimentos-jus9-tecnologia-juridica/VERSIONAMENTO_WEB_SUMMIT_PWA_LINGUAGEM_v1_0.md | externo=False
+- termo='assistiva' em juridico-virtual-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em juridico-virtual-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em juridico-virtual-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em juridico-virtual-jus9-tecnologia-juridica/PROCURACOES/PROCURACAO_CHARLIE_FOX_PARA_CHARLIE_ECHO_ADVOGADA_VIRTUAL.md | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/charlie-delta-da-costa/index.html | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/demo-04-cidadao-interessado.html | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/documentos/arquitetura-ia-jus9.md | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/ORIENTACOES/PADRAO_LINGUAGEM_IA_GENERATIVA_MULTIMODAL_JURISTA_2026_05_23.md | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/ORIENTACOES/RECADO_CHAT_CONTATOS_PWA_WEB_SUMMIT_2026_05_24.md | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/ORIENTACOES/STARTUP_SHOWCASE_WEB_SUMMIT_RIO_2026_APRESENTACAO_2_MINUTOS.md | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/ORIENTACOES/WEB_SUMMIT_2026_40_WORDS_JUS9.md | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/ORIENTACOES/WEB_SUMMIT_2026_40_WORDS_JUS9.md | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/politica-de-privacidade.html | externo=False
+- termo='substitui advogado' em jus9-tecnologia-juridica/politica-de-privacidade/index.html | externo=False
+- termo='assistiva' em jus9-tecnologia-juridica/VERSIONAMENTO_INSTALAR_APP_IA_GOVERNANCA_v1_0.md | externo=False
+- termo='assistiva' em jus9verde-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em jus9verde-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em jus9verde-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='substitui advogado' em jus9verde-jus9-tecnologia-juridica/SECRETO_DNA_EM_IA_JURIDICA_SUPERVISIONADA.md | externo=False
+- termo='assistiva' em laboratorio-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em laboratorio-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em livros-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em livros-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em livros-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em logs-auditoria-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em logs-auditoria-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em logs-auditoria-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistente jurídico' em mvp-jus9-tecnologia-juridica/app-perfis.html | externo=False
+- termo='assistiva' em mvp-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em mvp-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em mvp-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='substitui advogado' em mvp-jus9-tecnologia-juridica/SECRETO_DNA_EM_IA_JURIDICA_SUPERVISIONADA.md | externo=False
+- termo='assistiva' em olamundo-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em olamundo-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em olamundo-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em portal-cliente-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em portal-cliente-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em portal-cliente-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em primeiroformsctec/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=True
+- termo='substitui advogado' em primeiroformsctec/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=True
+- termo='assistiva' em primeiroformsctec/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=True
+- termo='assistiva' em quandoodesenhofala-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em quandoodesenhofala-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em quandoodesenhofala-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+- termo='assistiva' em quandoodesenhofala-jus9-tecnologia-juridica/ORIENTACOES/REGRA_IDENTIDADE_IA_MULTIMODAL_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em sctec/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=True
+- termo='substitui advogado' em sctec/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=True
+- termo='assistiva' em sctec/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=True
+- termo='assistiva' em universidadedofuturo-jus9-tecnologia-juridica/VERSIONAMENTO_IA_GENERATIVA_MULTIMODAL_JURISTA_v1_0.md | externo=False
+- termo='assistiva' em workers-pages-functions-jus9-tecnologia-juridica/GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md | externo=False
+- termo='substitui advogado' em workers-pages-functions-jus9-tecnologia-juridica/GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md | externo=False
+- termo='assistiva' em workers-pages-functions-jus9-tecnologia-juridica/ORIENTACOES/00_LEIA_ANTES_DE_ALTERAR.md | externo=False
+
+## .gitattributes/.gitignore
+- _workspace-jus9-colaborativo | .gitattributes=True | .gitignore=True | externo=False
+- admin-painel-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- Aeon-Primevo | .gitattributes=False | .gitignore=True | externo=True
+- aulas-charlie-echo-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- auth-identidade-acesso-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- backend-api-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- carta-jus9-tecnologia-juridica | .gitattributes=False | .gitignore=True | externo=False
+- charlieecho-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- cofre-documentos-seguros-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- Creta | .gitattributes=True | .gitignore=True | externo=True
+- db-modelos-migracoes-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- documentacao-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- equipe-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- governanca-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- ia-dupla-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- ia-profissional-orquestrador-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- infra-cloudflare-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- infra-jus9-cloudflare | .gitattributes=True | .gitignore=False | externo=False
+- introducaocss | .gitattributes=True | .gitignore=True | externo=True
+- investimentos-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- juridico-virtual-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- jus9-tecnologia-juridica | .gitattributes=False | .gitignore=True | externo=False
+- jus9verde-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- laboratorio-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- livros-jus9-tecnologia-juridica | .gitattributes=False | .gitignore=True | externo=False
+- logs-auditoria-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- mvp-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- nacoes-por-heranca | .gitattributes=True | .gitignore=True | externo=True
+- olamundo-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- portal-cliente-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- primeiroformsctec | .gitattributes=True | .gitignore=True | externo=True
+- quandoodesenhofala-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- sctec | .gitattributes=False | .gitignore=True | externo=True
+- universidadedofuturo-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+- workers-pages-functions-jus9-tecnologia-juridica | .gitattributes=True | .gitignore=True | externo=False
+
+## Arquivo tecnico JSON
+- C:\Users\Usuário\Documents\GitHub\_AUDITORIA_GOVERNANCA_JUS9\auditoria_github_jus9_2026-05-25_15-45-47.json
