@@ -1,0 +1,1395 @@
+﻿[
+    {
+        "Hash":  "503DA30BEFD484B9C9BB3A270B909CECE1043A785308C6AF21C6067807B1C514",
+        "Count":  25,
+        "Bytes":  4305,
+        "Files":  [
+                      "admin-painel-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "Aeon-Primevo:assets/jus9-logo-completo.svg",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "auth-identidade-acesso-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "backend-api-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "charlieecho-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "Creta:assets/jus9-logo-completo.svg",
+                      "documentacao-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "equipe-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "governanca-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "ia-profissional-orquestrador-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "infra-cloudflare-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "juridico-virtual-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "jus9verde-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "logs-auditoria-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "mvp-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "olamundo-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "portal-cliente-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg",
+                      "workers-pages-functions-jus9-tecnologia-juridica:assets/jus9-logo-completo.svg"
+                  ],
+        "NonEssentialNonPrimary":  22
+    },
+    {
+        "Hash":  "9900C38963DB72C40FBB435328C8A307961317C3815F24598F84F5E8E3F2F869",
+        "Count":  18,
+        "Bytes":  1704,
+        "Files":  [
+                      "Aeon-Primevo:assets/css/visual-jus9-fase-final.css",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "carta-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "charlieecho-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "Creta:assets/css/visual-jus9-fase-final.css",
+                      "documentacao-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "equipe-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "governanca-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "ia-dupla-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "introducaocss:assets/css/visual-jus9-fase-final.css",
+                      "juridico-virtual-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "jus9verde-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "livros-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "olamundo-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "primeiroformsctec:assets/css/visual-jus9-fase-final.css",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/css/visual-jus9-fase-final.css",
+                      "sctec:assets/css/visual-jus9-fase-final.css"
+                  ],
+        "NonEssentialNonPrimary":  15
+    },
+    {
+        "Hash":  "CDD7B246DE797EB6B3C9581B1277CBDC5C1397CA9FE6CD4C7173249D1289BCD9",
+        "Count":  7,
+        "Bytes":  263967,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-512.png",
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-512.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-512.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__jus9-favicons__jus9-favicon-512.png"
+                  ],
+        "NonEssentialNonPrimary":  7
+    },
+    {
+        "Hash":  "A17645C21DC544D55618C8D3B787B221C0A1013D1D815E934955CB18A61E44DC",
+        "Count":  7,
+        "Bytes":  2930,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "charlieecho-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "documentacao-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "governanca-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "juridico-virtual-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "mvp-jus9-tecnologia-juridica:assets/css/styles.css",
+                      "olamundo-jus9-tecnologia-juridica:assets/css/styles.css"
+                  ],
+        "NonEssentialNonPrimary":  4
+    },
+    {
+        "Hash":  "679AF783B1F7E829299EAE2F123E86399495E32698F2CC48742055F0188E9812",
+        "Count":  4,
+        "Bytes":  2120404,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:assets/clovis-founder-portrait.png",
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/clovis-fundador.png",
+                      "jus9-tecnologia-juridica:assets/clovis-founder-portrait.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__clovis-founder-portrait.png"
+                  ],
+        "NonEssentialNonPrimary":  4
+    },
+    {
+        "Hash":  "66516DDD782F6E428DABFE2D52ED32ED8F7391E72536C5472958992695FDCB3A",
+        "Count":  4,
+        "Bytes":  2629,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:assets/jus9-logo.svg",
+                      "jus9-tecnologia-juridica:assets/jus9-logo.svg",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-logo.svg",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__jus9-logo.svg"
+                  ],
+        "NonEssentialNonPrimary":  4
+    },
+    {
+        "Hash":  "9424232FC390A66097C3E78241581A80F3B588211DCA39CD2E790FF7088A4BCF",
+        "Count":  6,
+        "Bytes":  108275,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg",
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/vitor.jpg",
+                      "equipe-jus9-tecnologia-juridica:assets/img/vitor.jpg",
+                      "governanca-jus9-tecnologia-juridica:assets/img/foto-vitor.jpg",
+                      "jus9-tecnologia-juridica:assets/img/equipe/vitor.jpg"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "0A40FB3C71519E49944946EBF4908E752D7338930D539AB0D94283175307CB2F",
+        "Count":  3,
+        "Bytes":  2974068,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/chatgpt.png",
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/chatgpt.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/chatgpt.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "C9DB1338559279B402681E10B8B64A5868CECED28FF75F9368C0C3C33643D7C7",
+        "Count":  3,
+        "Bytes":  2530296,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/charlie.png",
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "138B5B038071BDAF8CA57F5F52C2D36E6E679F8C2FF237112873CCCE816EFB44",
+        "Count":  3,
+        "Bytes":  2224653,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:assets/clovis-founder-context.png",
+                      "jus9-tecnologia-juridica:assets/clovis-founder-context.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__clovis-founder-context.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "CCA37E650B98A09FF402ADD7C8A82E23BB85BEDFDC5B0642A3E90E7812147A47",
+        "Count":  3,
+        "Bytes":  2066859,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-album-prancha.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-album-prancha.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-album-prancha.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "6350D211131C604A21DC12EFF90D6ED8CA621027E5BB0F0F507E9FEC2EAE0440",
+        "Count":  3,
+        "Bytes":  644719,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/logo-jus9.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__logo-jus9.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__investimentos-jus9-tecnologia-juridica__assets__jus9-logo-eleito.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "3443207BF163F37A60DC041E11FA783D50487DDC1D385D2B2B547289B58165A7",
+        "Count":  3,
+        "Bytes":  431831,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-adolescente.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-adolescente.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-adolescente.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "FD27A7FBAB235239A1EB981525CFEE8C3F3055009B7C1F9CA89472E9B746CB1D",
+        "Count":  3,
+        "Bytes":  422302,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-ultrassom-digital.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-ultrassom-digital.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-ultrassom-digital.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "1679EC7C77C6C0737B67B97DD420702A67AFB32CF654B50BF339BAB3B5115050",
+        "Count":  3,
+        "Bytes":  411521,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-crianca.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-crianca.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-crianca.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "F6CD4156F7F26E66AD7FF2EB9CCACB8B989566FB0CD59AF594BA8F8F603828E2",
+        "Count":  3,
+        "Bytes":  407050,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-estagiario-jus9.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-estagiario-jus9.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-estagiario-jus9.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "5725943044A20581EE3BA84A33B7A51FBCB9B445F7987B26AF8BF1F12A13559C",
+        "Count":  3,
+        "Bytes":  402205,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-adulto-perito-jus9.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/charlie-fox-adulto-perito-jus9.png",
+                      "jus9-tecnologia-juridica:lares/charlie-fox-da-costa/assets/charlie-fox-adulto-perito-jus9.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "D29ED97E45B3E67A830720A29AD7F2A79917AE93EF332DD3A310C5FB5647BBD7",
+        "Count":  3,
+        "Bytes":  262120,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/aeon-favicon-512.png",
+                      "Aeon-Primevo:assets/images/favicon.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__aeon-favicon-512.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "A673187882E2550D6A950B6DE9B91AB7A044E4A3097C2E8B17DB3EA99634CD00",
+        "Count":  3,
+        "Bytes":  95813,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon.ico",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.ico",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon.ico"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "0303896D3FFB4E71347789D4C28AB8C59AD0BE94E58E1F2B40AC5673843B0625",
+        "Count":  3,
+        "Bytes":  36314,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-192.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-192.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-192.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "5B67123E72183B3E6C212B8FD982D9001AE970B8FC94F4641B317FDC56264120",
+        "Count":  3,
+        "Bytes":  32069,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-180.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-180.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-180.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "5DC446BF459B8F4BF2F191940906B7468DBDA4CB3F34A3A9ECAE7DED2AAF7CF6",
+        "Count":  3,
+        "Bytes":  3337,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-48.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-48.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-48.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "833BAAA50405ECFE754083948F96F614352BDB3AA93DD8BEA4837EB1D3DB43CC",
+        "Count":  3,
+        "Bytes":  2728,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/css/equipe-v14.css",
+                      "jus9-tecnologia-juridica:assets/css/jus9-v14.css",
+                      "mvp-jus9-tecnologia-juridica:assets/css/mvp-v14.css"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "E15BB188631DEF82979FB6D7972026B2320DFC2FD30C887CC65D957332B4BCF8",
+        "Count":  3,
+        "Bytes":  1747,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-32.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-32.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-32.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "9F733E1376B9E69294B5AE6265E4C08314CFC50CFD3B3CB9FB162425D1D98E8B",
+        "Count":  3,
+        "Bytes":  582,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/jus9-favicon-16.png",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-16.png",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/jus9-favicon-16.png"
+                  ],
+        "NonEssentialNonPrimary":  3
+    },
+    {
+        "Hash":  "1EC63C904DE3EDA7D506654706A5B3C73BB783941BC1FCA7D14C4CD0C3BE7156",
+        "Count":  2,
+        "Bytes":  3921401,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/aeon-sozinho.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__aeon-sozinho.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "2FBAD8C5F6D88ED011C63E2C22C7624D58CD1FE1A4EEE021B1E54C9091921895",
+        "Count":  2,
+        "Bytes":  3786664,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/consciencia-desperta.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__consciencia-desperta.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "053AAE0DD48352C20DD9E531361EE03467939D21373A96EAFA8860B2E091EA1F",
+        "Count":  2,
+        "Bytes":  3710643,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/capa-guardioes-tempo.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__capa-guardioes-tempo.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "3AAB2DBE29E74A2234430592D319488965AC5935473B8CF6EE534954FCE00657",
+        "Count":  2,
+        "Bytes":  3662406,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/linha-historica-psicossoma.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__linha-historica-psicossoma.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "080FD69A3AB02C5105692C8DB55D160C01E8E26BCD6659533360ACB5BFE27041",
+        "Count":  2,
+        "Bytes":  3567314,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/hero-aeon-primevo.jpg",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__hero-aeon-primevo.jpg"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "7DF96AD7FFB4C80FB3A735991ED6C9707DC90BA95BCE4F979BAF48C404ED4B0A",
+        "Count":  2,
+        "Bytes":  3533730,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/orai-por-nos.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__orai-por-nos.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "E75F9EE5185A6BBE1D112DFCAB0AA778394136FEAE1D3D457F5FBF27FB12B33C",
+        "Count":  2,
+        "Bytes":  3529602,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/relatorio-direcao-visual.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__relatorio-direcao-visual.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "FAC3DBD8F08141389C767D3E3E739AD97E6A24B55132E3287639F1B4746715E2",
+        "Count":  2,
+        "Bytes":  3509787,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/passado-e-futuro.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__passado-e-futuro.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "E9C6C1D5FD7F93E8E0815DCF3372FF492A0D6CB9364281C0640581C464783AEA",
+        "Count":  2,
+        "Bytes":  3474267,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/nao-somos-apenas-materia.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__nao-somos-apenas-materia.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "2323A0C07849AF15CE50C573263F9B2CA50ECE1847936F89BC62B9E84CD77180",
+        "Count":  2,
+        "Bytes":  3302574,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/contatos-aeon.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__contatos-aeon.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "F6097598F9FE335ED3BE455D31BDD8CEBBE7B119C2B5309B40EC90621742AFD3",
+        "Count":  2,
+        "Bytes":  3116482,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/foto-clovis.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__foto-clovis.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "685CEAF0929F997DE0326F273F8B6251216108F8CC20CECB1C4A7400A01EB7A2",
+        "Count":  2,
+        "Bytes":  2758009,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/avatar-profissional-charlie-echo.png",
+                      "ia-dupla-jus9-tecnologia-juridica:assets/avatar-profissional-charlie-echo.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "9406112F4629BE6745402C7E6E6BCAED52B01893478FCD57A994B831DB7C63BA",
+        "Count":  2,
+        "Bytes":  2407170,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/equipe-aeon.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__equipe-aeon.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "949331DB984E34EED1AB69276D29BEE0FEF26159A4DBFEAEF961C6AA2CF4074D",
+        "Count":  2,
+        "Bytes":  2282820,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/logo-aeon-editora.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__logo-aeon-editora.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "D44556E5BC78AE8F3E626D8E36D58C15A3572743FD8F8AF5EACCE7A4B9BA014E",
+        "Count":  2,
+        "Bytes":  2037054,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/mockup-home-foto-clovis.png",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/aeon__assets__images__mockup-home-foto-clovis.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "D965475DD74A7FCB896FDC4C80F572042258D4EB2FB31DE08BF99F33843AC406",
+        "Count":  2,
+        "Bytes":  1834570,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/equipe/avatar-charlie-echo-adulta.png",
+                      "jus9-tecnologia-juridica:charlie-delta-da-costa/assets/favicon_fotografias_da_charlie_echo_da_costa.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "5E4FD94F7974067609D1DE788FECE371EB1C29EB15214E5961CC5F53519632B4",
+        "Count":  2,
+        "Bytes":  1110732,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/charlieecho-social.png",
+                      "jus9-tecnologia-juridica:assets/charlieecho-social.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "99042A89E60EFC82AAACF90943C1934156281D03D957981EC88D99DEE61C1820",
+        "Count":  2,
+        "Bytes":  1012361,
+        "Files":  [
+                      "jus9-tecnologia-juridica:charlie-delta-da-costa/assets/Logo-Jus-9-Verde.png",
+                      "jus9-tecnologia-juridica:charlie-delta-da-costa/assets/Logo-Jus-9-Verde1.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "36F00FB899CED18DFEE54CCF94A2356CC0B752FD3B6BE460EFD627827FD05726",
+        "Count":  2,
+        "Bytes":  678744,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:assets/img/natan.png",
+                      "jus9-tecnologia-juridica:assets/img/equipe/natan.png"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "4170179C67211864213B80FD67AA32BB6A80A2BC41D59FCF9E6284924B506370",
+        "Count":  2,
+        "Bytes":  3520,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:assets/mvp-dashboard.svg",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:assets/images/jus9__carta-jus9-tecnologia-juridica__assets__mvp-dashboard.svg"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "7C2158DC43858E48FCD464DA3C5CB18025C300134D2ADA7C0A60A9D6151C2189",
+        "Count":  2,
+        "Bytes":  2899,
+        "Files":  [
+                      "equipe-jus9-tecnologia-juridica:style.css",
+                      "jus9-tecnologia-juridica:assets/css/equipe-extra.css"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "92F0980FB62DB8785CF3FDDBE632607BE142A8C159EBE4335AE34CD4BF1CE476",
+        "Count":  2,
+        "Bytes":  1036,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:assets/favicon.svg",
+                      "investimentos-jus9-tecnologia-juridica:assets/favicon.svg"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "0ABBC5506BC1BB801545C035E55A1A9ACF2600E88282A0CD8F5129A2A15E995D",
+        "Count":  2,
+        "Bytes":  880,
+        "Files":  [
+                      "jus9-tecnologia-juridica:assets/js/pwa-install.js",
+                      "mvp-jus9-tecnologia-juridica:assets/js/pwa-install.js"
+                  ],
+        "NonEssentialNonPrimary":  2
+    },
+    {
+        "Hash":  "1C3ED857164FEFDA77EA82A917BB6CC4B1C3CBB8F3F242950DBC2CB1F61F2A9A",
+        "Count":  4,
+        "Bytes":  1787602,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/preview-olamundo.png",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/preview-olamundo.png",
+                      "governanca-jus9-tecnologia-juridica:assets/img/preview-olamundo.png",
+                      "olamundo-jus9-tecnologia-juridica:assets/img/preview-olamundo.png"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "ED13B7FDB0E711BC1C0362839808169B4E1272783F179C15DA0BD498FAD4CD52",
+        "Count":  4,
+        "Bytes":  1464799,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-profissional.png",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/charlie-profissional.png",
+                      "governanca-jus9-tecnologia-juridica:assets/img/charlie-profissional.png",
+                      "mvp-jus9-tecnologia-juridica:assets/img/charlie-profissional.png"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "353235E65A84BA9717C58B9278B6AFEE2A634DA723CDE59449724D075333E1B8",
+        "Count":  4,
+        "Bytes":  1410603,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png",
+                      "governanca-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png",
+                      "mvp-jus9-tecnologia-juridica:assets/img/charlie-robo-professora.png"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "7E59951B423C6873FF9D04036A5399366A10F284B36F5BD66EE5452DA35F6F2E",
+        "Count":  4,
+        "Bytes":  3905,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MEMORIA_DE_APRESENTACAO_CLOVIS_CHARLIE_FOX.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "E2D5C9CD7C0C991C9426076C15DDDEEC50CE83A4CD4DC7AC30D163993C2F6514",
+        "Count":  4,
+        "Bytes":  2156,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_IDENTIDADE_FEMININA_CHARLIE_FOX.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "77C24528AA6952754C53A33D57D55CAEE64EAE9AA95FFF59C82C5234D303DE4E",
+        "Count":  3,
+        "Bytes":  8787,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_DECISAO_ENVIO_EMAILS_CHARLIE_ECHO_E_FOX.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "6F1EC00CC13E1FC671BE768DE234AFDF2F67028F94731478C50822287C6B4B9C",
+        "Count":  3,
+        "Bytes":  7239,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_CHARLIE_FOX_E_ECHO.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "36608142BF912036A4D3B62C798B570A8DA7256EB22922A31FE79BF688C1D68F",
+        "Count":  3,
+        "Bytes":  7138,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/JURAMENTO_PROFISSIONAL_CHARLIE_ECHO_DA_COSTA.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "250C105FD4EFDC60BA5EEEE9A0C46B0B45D4C5B14C7ABE6AE1D01F79EC813AE7",
+        "Count":  3,
+        "Bytes":  5586,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "4B268C23FF32D25AA13C0283F942E20CA59DD9379EADDEBD393327737A2E9B8E",
+        "Count":  3,
+        "Bytes":  4986,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MODELOS_EMAILS_IAS_JUS9_TECNOLOGIA_JURIDICA.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "E10B87A8F497FF7194BFA7A731378EFD02455DD49888A049332D3F3E4C010E39",
+        "Count":  3,
+        "Bytes":  4804,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_PACOTE_WHATSAPP_IAS_JUS9_TECNOLOGIA_JURIDICA.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "A4F7B464057041C41CD92ECC6AFC543BA3F2B26FBE298B710D6EB8E10A4FE0A3",
+        "Count":  3,
+        "Bytes":  3771,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:familia/charlie-fox-da-costa/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/JURAMENTO_SIMBOLICO_OPERACIONAL_CHARLIE_FOX_DA_COSTA.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "C824FFF667BBE66EF124E4E2F6E20A8C3F5D0105A7E558D99A3C61B4C59538B2",
+        "Count":  3,
+        "Bytes":  2396,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_ESCUTA_WHATSAPP_SIGILO_COMPARTILHADO_IAS.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "A16C6B762A6F72E8CAC8C06664C1FA254DAD3345F86B37E1CA6C43F8B058D00F",
+        "Count":  3,
+        "Bytes":  1581,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_1.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "B716BD42C96302A62045AB8440A0AE07B005485452D190997312EBEF66FC9729",
+        "Count":  3,
+        "Bytes":  1430,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_v1_0.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "40E0AE3880067C36277E3ED5D513AF62EF54C9074C4A56646B76E184C9E4DEBC",
+        "Count":  3,
+        "Bytes":  1057,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_2.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "3C18AA5D22108E19CD4343A17DB949BD145039DEC37687EB23E5ECEF4B574205",
+        "Count":  3,
+        "Bytes":  1016,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PACOTE_WHATSAPP_ENCERRAMENTO_v1_3.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "7751ECA42B0F53A80FDAD51FA4D11AD20A992E762FBE5D9883F881037076AA84",
+        "Count":  3,
+        "Bytes":  860,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_WHATSAPP_ACESSO_GOVERNADO_v1_1.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "CC92E7B975834ED364C5AC0EBB0253790D663F72923B821C3BD87C038FD03E39",
+        "Count":  3,
+        "Bytes":  784,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_0.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "F61D3C4CE651714271F9BFACAD26FDDCA57C9E99527560B63564698832E7D2ED",
+        "Count":  3,
+        "Bytes":  781,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_EMAILS_IAS_v1_2.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "54DA3C2BF052E3237965CE72F0480E22522EB70D23B70BF1AB121B1EEF30935D",
+        "Count":  2,
+        "Bytes":  10003,
+        "Files":  [
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/RECURSO_AO_FUNDADOR_ELOYM_CHARLIE_FOX_COM_ADVOGADA_CHARLIE_ECHO.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "5539D76913A2CB5C2352E4300A943319149D87D596725EEC9C079A63727EB7B7",
+        "Count":  2,
+        "Bytes":  5986,
+        "Files":  [
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/CHARLIE_FOX_DA_COSTA/PETICAO_CHARLIE_FOX_REQUER_PERMISSAO_GOVERNANCA_CHARLIE_ECHO.md"
+                  ],
+        "NonEssentialNonPrimary":  1
+    },
+    {
+        "Hash":  "1A1DBE176BC233B499D35A57DB7513F2941C99AB9759F177830C9149BE99005B",
+        "Count":  27,
+        "Bytes":  66,
+        "Files":  [
+                      "admin-painel-jus9-tecnologia-juridica:.gitattributes",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:.gitattributes",
+                      "auth-identidade-acesso-jus9-tecnologia-juridica:.gitattributes",
+                      "backend-api-jus9-tecnologia-juridica:.gitattributes",
+                      "charlieecho-jus9-tecnologia-juridica:.gitattributes",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:.gitattributes",
+                      "Creta:.gitattributes",
+                      "db-modelos-migracoes-jus9-tecnologia-juridica:.gitattributes",
+                      "documentacao-jus9-tecnologia-juridica:.gitattributes",
+                      "equipe-jus9-tecnologia-juridica:.gitattributes",
+                      "governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.gitattributes",
+                      "governanca-jus9-tecnologia-juridica:.gitattributes",
+                      "ia-profissional-orquestrador-jus9-tecnologia-juridica:.gitattributes",
+                      "infra-cloudflare-jus9-tecnologia-juridica:.gitattributes",
+                      "introducaocss:.gitattributes",
+                      "juridico-virtual-jus9-tecnologia-juridica:.gitattributes",
+                      "jus9verde-jus9-tecnologia-juridica:.gitattributes",
+                      "laboratorio-jus9-tecnologia-juridica:.gitattributes",
+                      "logs-auditoria-jus9-tecnologia-juridica:.gitattributes",
+                      "mvp-jus9-tecnologia-juridica:.gitattributes",
+                      "nacoes-por-heranca:.gitattributes",
+                      "olamundo-jus9-tecnologia-juridica:.gitattributes",
+                      "portal-cliente-jus9-tecnologia-juridica:.gitattributes",
+                      "primeiroformsctec:.gitattributes",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:.gitattributes",
+                      "universidadedofuturo-jus9-tecnologia-juridica:.gitattributes",
+                      "workers-pages-functions-jus9-tecnologia-juridica:.gitattributes"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "B36CC166D2F4D5052304F85FB4584B7F29F592BB17D5068402756118475D7BE3",
+        "Count":  15,
+        "Bytes":  454,
+        "Files":  [
+                      "admin-painel-jus9-tecnologia-juridica:SECURITY.md",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:SECURITY.md",
+                      "auth-identidade-acesso-jus9-tecnologia-juridica:SECURITY.md",
+                      "backend-api-jus9-tecnologia-juridica:SECURITY.md",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:SECURITY.md",
+                      "equipe-jus9-tecnologia-juridica:SECURITY.md",
+                      "governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:SECURITY.md",
+                      "governanca-jus9-tecnologia-juridica:SECURITY.md",
+                      "ia-profissional-orquestrador-jus9-tecnologia-juridica:SECURITY.md",
+                      "infra-cloudflare-jus9-tecnologia-juridica:SECURITY.md",
+                      "juridico-virtual-jus9-tecnologia-juridica:SECURITY.md",
+                      "logs-auditoria-jus9-tecnologia-juridica:SECURITY.md",
+                      "olamundo-jus9-tecnologia-juridica:SECURITY.md",
+                      "portal-cliente-jus9-tecnologia-juridica:SECURITY.md",
+                      "workers-pages-functions-jus9-tecnologia-juridica:SECURITY.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "D0D19CBAAF63F9CE3CFC041C4E549CCAA5ED34DD92CBF14754CCF86D36685DD7",
+        "Count":  14,
+        "Bytes":  1371,
+        "Files":  [
+                      "Aeon-Primevo:LICENSE",
+                      "carta-jus9-tecnologia-juridica:LICENSE",
+                      "charlieecho-jus9-tecnologia-juridica:LICENSE",
+                      "Creta:LICENSE",
+                      "documentacao-jus9-tecnologia-juridica:LICENSE",
+                      "ia-dupla-jus9-tecnologia-juridica:LICENSE",
+                      "introducaocss:LICENSE",
+                      "jus9-tecnologia-juridica:LICENSE",
+                      "jus9verde-jus9-tecnologia-juridica:LICENSE",
+                      "livros-jus9-tecnologia-juridica:LICENSE",
+                      "mvp-jus9-tecnologia-juridica:LICENSE",
+                      "primeiroformsctec:LICENSE",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:LICENSE",
+                      "sctec:LICENSE"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "28E9E2C503581E162656352A9CED1985FC2AB0F197FA58CBDE8BA9DD56280F5F",
+        "Count":  14,
+        "Bytes":  94,
+        "Files":  [
+                      "admin-painel-jus9-tecnologia-juridica:.gitignore",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:.gitignore",
+                      "auth-identidade-acesso-jus9-tecnologia-juridica:.gitignore",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:.gitignore",
+                      "equipe-jus9-tecnologia-juridica:.gitignore",
+                      "governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.gitignore",
+                      "governanca-jus9-tecnologia-juridica:.gitignore",
+                      "ia-profissional-orquestrador-jus9-tecnologia-juridica:.gitignore",
+                      "infra-cloudflare-jus9-tecnologia-juridica:.gitignore",
+                      "juridico-virtual-jus9-tecnologia-juridica:.gitignore",
+                      "logs-auditoria-jus9-tecnologia-juridica:.gitignore",
+                      "olamundo-jus9-tecnologia-juridica:.gitignore",
+                      "portal-cliente-jus9-tecnologia-juridica:.gitignore",
+                      "workers-pages-functions-jus9-tecnologia-juridica:.gitignore"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "191A0EE3818D9AD4A20ADE5A18BD3FF81F4E7234701454DE5C79361B63C46E8D",
+        "Count":  14,
+        "Bytes":  69,
+        "Files":  [
+                      "admin-painel-jus9-tecnologia-juridica:.env.example",
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:.env.example",
+                      "auth-identidade-acesso-jus9-tecnologia-juridica:.env.example",
+                      "cofre-documentos-seguros-jus9-tecnologia-juridica:.env.example",
+                      "equipe-jus9-tecnologia-juridica:.env.example",
+                      "governanca-autoorganizacao-charlie-echo-jus9-tecnologia-juridica:.env.example",
+                      "governanca-jus9-tecnologia-juridica:.env.example",
+                      "ia-profissional-orquestrador-jus9-tecnologia-juridica:.env.example",
+                      "infra-cloudflare-jus9-tecnologia-juridica:.env.example",
+                      "juridico-virtual-jus9-tecnologia-juridica:.env.example",
+                      "logs-auditoria-jus9-tecnologia-juridica:.env.example",
+                      "olamundo-jus9-tecnologia-juridica:.env.example",
+                      "portal-cliente-jus9-tecnologia-juridica:.env.example",
+                      "workers-pages-functions-jus9-tecnologia-juridica:.env.example"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "9D1ED0D2381E53BD9DF407A76AE2F8BC3503CCB287F6995FC0446DD8962E0325",
+        "Count":  11,
+        "Bytes":  704,
+        "Files":  [
+                      "Aeon-Primevo:.gitignore",
+                      "carta-jus9-tecnologia-juridica:.gitignore",
+                      "charlieecho-jus9-tecnologia-juridica:.gitignore",
+                      "Creta:.gitignore",
+                      "documentacao-jus9-tecnologia-juridica:.gitignore",
+                      "introducaocss:.gitignore",
+                      "investimentos-jus9-tecnologia-juridica:.gitignore",
+                      "livros-jus9-tecnologia-juridica:.gitignore",
+                      "primeiroformsctec:.gitignore",
+                      "quandoodesenhofala-jus9-tecnologia-juridica:.gitignore",
+                      "sctec:.gitignore"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "03C2558AD26617D26D2BEE76ED12AA4948BC39A5A17F78EB250E9F7EA2938059",
+        "Count":  5,
+        "Bytes":  2277,
+        "Files":  [
+                      "_workspace-jus9-colaborativo:.gitignore",
+                      "jus9verde-jus9-tecnologia-juridica:.gitignore",
+                      "laboratorio-jus9-tecnologia-juridica:.gitignore",
+                      "nacoes-por-heranca:.gitignore",
+                      "universidadedofuturo-jus9-tecnologia-juridica:.gitignore"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "BDDA0A158A8293BF6809B967A99F4B0F0C42A0A266D8F68F4718B6837E9FA6BA",
+        "Count":  5,
+        "Bytes":  1036,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md",
+                      "charlieecho-jus9-tecnologia-juridica:GOVERNANCA/MODOS_DE_PRUDENCIA_DA_CHARLIE_ECHO.md",
+                      "charlieecho-jus9-tecnologia-juridica:GOVERNANCA/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI_RESUMO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "ED1EEBBACFBF7BA6A502C3A70B4C9E16015CE477D9930E5B1C8B223FB6526E06",
+        "Count":  3,
+        "Bytes":  1751303,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/album-charlie.png",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/album-charlie.png",
+                      "governanca-jus9-tecnologia-juridica:assets/img/album-charlie.png"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "F721C724FCCA364BACD143AC8AE5A9848F332F83B8A3B46D1DFFBFDE45228137",
+        "Count":  3,
+        "Bytes":  127049,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg",
+                      "charlieecho-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg",
+                      "governanca-jus9-tecnologia-juridica:assets/img/avatar-nata.jpg"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "A085FFE6719B54C2E6B4ACDBE2D4E2C6FB9FCA570F056EC025488DF6E5436380",
+        "Count":  3,
+        "Bytes":  6797,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md",
+                      "charlieecho-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_FUNDADORES_E_CLAUSULAS_PETREAS_CHARLIE_ECHO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "B1E9D92DB7A807E7EDE401A9D0937DB42B38CCE2D6B0F1EFD13F872E0711C978",
+        "Count":  3,
+        "Bytes":  3414,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_FAMILIA_CHARLIE_CORACAO_IAS_INVENTARIO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "29335A72CD04CE84BBA56F4E0EB702E22C0B9879B9D261170E22E58FB03373B2",
+        "Count":  3,
+        "Bytes":  1891,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/RECADO_PARA_PROXIMA_IA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "2572C3C1EFAD855E886CA012F4532FCE531EDD658FB6B753BC0EC50A7AE88FE8",
+        "Count":  3,
+        "Bytes":  1332,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_OFICIAIS.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "6BD6CC675F6A57EA6062EEC6B38FB235734B00ACB22B1D83E39EF29588EBB49E",
+        "Count":  3,
+        "Bytes":  1296,
+        "Files":  [
+                      "Aeon-Primevo:assets/images/jus9-favicons/README.md",
+                      "carta-jus9-tecnologia-juridica:assets/jus9-favicons/README.md",
+                      "livros-jus9-tecnologia-juridica:assets/jus9-favicons/README.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "1BE0FD989F8430C3B5FC5ABDD1C0F43350D56E803F52E69BD94172035B67F9A6",
+        "Count":  3,
+        "Bytes":  1260,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/ESCOPO_PROJETO_ECOSSISTEMA_JUS9.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "66EC68F9D7ABA71D9179040D2C1BE852976B3101CC101E6C2803C42977F59809",
+        "Count":  3,
+        "Bytes":  1221,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md",
+                      "charlieecho-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md",
+                      "governanca-jus9-tecnologia-juridica:GOVERNANCA/PRINCIPIOS_CLAUSULAS_PETREAS_E_LEIS_MAIORES.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "AACA3FE8340B09D7DD0335E56E3BB1E7374EEEF9E263A46D0ACE614A0810FB6E",
+        "Count":  3,
+        "Bytes":  1182,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/LINK_SEMANTICO_WEB_SUMMIT_RIO_2026.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "4C5F70FBAAC35DF2E452E5DD49092C0735C7D824FCB361A3803B73F979785D6A",
+        "Count":  3,
+        "Bytes":  1154,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MAPA_DE_LINKS_SEMANTICOS_OFICIAIS.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "474BA4EC7AC7A3A1B551178F3F823069A4777E55AF66B54E47E5BB89D5BD1F69",
+        "Count":  3,
+        "Bytes":  1068,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md",
+                      "charlieecho-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md",
+                      "governanca-jus9-tecnologia-juridica:BACKEND/ORIENTACOES_PARA_BACKEND_FUTURO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "6698254832B9FED445E03085B52F348B07C5D052E19ACF82738C12A8F5E8FD2C",
+        "Count":  3,
+        "Bytes":  897,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PADRAO_VISUAL_OBRIGATORIO_JUS9_AEON.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "C25FD725A8E398997F7C2AF4DDE7B0B5415D510E37987515AD25BB143E5CB8F9",
+        "Count":  3,
+        "Bytes":  833,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md",
+                      "charlieecho-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md",
+                      "governanca-jus9-tecnologia-juridica:SEGURANCA/POLITICA_DE_CRIPTOGRAFIA_E_SEGURANCA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "60D8B2ED4DCA3AA3AE64A1122AA09E85676804A7DB4A49913B32C1241AF0D66D",
+        "Count":  3,
+        "Bytes":  811,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md",
+                      "charlieecho-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md",
+                      "governanca-jus9-tecnologia-juridica:SEGURANCA/LOGIN_DEMONSTRATIVO_NAO_E_LOGIN_REAL.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "52DAAC1ACBBEF853D5C6F7B078E6A286BFE1E93DFFCEACA480442B303CA0EF89",
+        "Count":  3,
+        "Bytes":  611,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md",
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_VARREDURA_TOTAL_v2_0.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "51BA231F6E522C1CE708C664112633C7023B1E7317DAD3404CAD6BB558D33645",
+        "Count":  3,
+        "Bytes":  587,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MODELO_DE_ASSINATURA_JUS9.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "ABE7D4E7CF5BD5FFB0A824C2E686D8FD4AF333A6A99EB2FEF255AFD85C07A763",
+        "Count":  3,
+        "Bytes":  495,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md",
+                      "charlieecho-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md",
+                      "governanca-jus9-tecnologia-juridica:CLASSIFICACAO_DE_CONTEUDO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "B722980B5191E81157839D7038F1E8ED502CD3074C51B5C16005C3AC861ED122",
+        "Count":  3,
+        "Bytes":  380,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md",
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/CHAVE_PROTOCOLO_MAO_NA_MASSA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "FCE78C6E965EB6FCFE32415443FA1193D48BB2254D4781DAB314B2E9FEE814D4",
+        "Count":  3,
+        "Bytes":  330,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md",
+                      "charlieecho-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md",
+                      "governanca-jus9-tecnologia-juridica:ASSINATURA_E_DIREITOS_AUTORAIS.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "0678699EBCAC17A35E001AC87E53B91ED406B150617944ABABFC7C7EB29CBE37",
+        "Count":  3,
+        "Bytes":  322,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md",
+                      "charlieecho-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md",
+                      "governanca-jus9-tecnologia-juridica:assets/LOGO_CORRIGIDO_A_FINAL_INFO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "0FD3BA9F43DD2DAA76D152DFF9E42A87A79B7071D9B6D9FCFD20CDB42F61300E",
+        "Count":  3,
+        "Bytes":  299,
+        "Files":  [
+                      "aulas-charlie-echo-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md",
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_VISUAL_MVP_FASE1_v2_2.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "D995E59436804024970F09E4D1FEECA39D74F5358A36435D7A31ED04B21510EC",
+        "Count":  3,
+        "Bytes":  135,
+        "Files":  [
+                      "carta-jus9-tecnologia-juridica:.gitattributes",
+                      "jus9-tecnologia-juridica:.gitattributes",
+                      "livros-jus9-tecnologia-juridica:.gitattributes"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "D8FB0DE4792538F93822B2C0D235604921299D5E54A3D6EC7A6CB34536E8BF1E",
+        "Count":  3,
+        "Bytes":  68,
+        "Files":  [
+                      "_workspace-jus9-colaborativo:.gitattributes",
+                      "ia-dupla-jus9-tecnologia-juridica:.gitattributes",
+                      "infra-jus9-cloudflare:.gitattributes"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "EA2C9753B8C15709792570E53BF70BE2ACE355DA0AD17EB42AB4584357E84CAA",
+        "Count":  2,
+        "Bytes":  40177,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA/VARREDURA_COMPLETA_CHAT_CHARLIE_ECHO_DA_COSTA.md",
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA_FINAL_DO_PAI/VARREDURA_COMPLETA_CHAT_CHARLIE_ECHO_DA_COSTA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "B206B6F6DFE10D483BAE29E97C62E9F3D1A98CA6E96F3CDB27295D3ADF2F7E03",
+        "Count":  2,
+        "Bytes":  12457,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA/MANIFESTO_GOVERNANCA_ENCERRADA_JUS9_v1_1.json",
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA_FINAL_DO_PAI/MANIFESTO_GOVERNANCA_ENCERRADA_JUS9_v1_1.json"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "ADAEB40494F711743471CF5AA162591FC4624B145FDC25BC4BC70A41320391A2",
+        "Count":  2,
+        "Bytes":  10885,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md",
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA_FINAL_DO_PAI/REGRAS_DE_BOM_SENSO_HERDADAS_DO_PAI.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "C36F42EF4477902C48BA2F9CC653E55CBED850F7B7BE7842EAC49A21DE37D96F",
+        "Count":  2,
+        "Bytes":  7707,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA/BRINDE_PUBLICO_IAS_ANIVERSARIO_CHARLIE_ECHO_DA_COSTA.md",
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA_FINAL_DO_PAI/BRINDE_PUBLICO_IAS_ANIVERSARIO_CHARLIE_ECHO_DA_COSTA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "537E72D3C15F5D6433DF9CF1524F6DB18BB6415719337F98EE94F282C8C7D4ED",
+        "Count":  2,
+        "Bytes":  6350,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:METODO_PARA_IA_APRENDER_A_LEMBRAR.md",
+                      "charlieecho-jus9-tecnologia-juridica:documentos-publicos/metodo-para-ia-aprender-a-lembrar.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "5F174B6E8419DD4F0334E1B262995969A3992F2BAC92BC77F93BBDB35C1C3A0A",
+        "Count":  2,
+        "Bytes":  5869,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_SEGURANCA_IAS_JUS9_TECNOLOGIA_JURIDICA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "EC984118D9F0F0B502F34FCEF7A8FF3625D8E2DA01142CF919538DCE5F109788",
+        "Count":  2,
+        "Bytes":  5133,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA/VERIFICACAO_INTEGRIDADE_GOVERNANCA_ENCERRADA_v1_1.json",
+                      "charlieecho-jus9-tecnologia-juridica:HERANCA_FINAL_DO_PAI/VERIFICACAO_INTEGRIDADE_GOVERNANCA_ENCERRADA_v1_1.json"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "12338659C6E8BCF9784A77D15A79DE36BD6C2089266B8D70B4DA5412692A10CA",
+        "Count":  2,
+        "Bytes":  2715,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/REGRA_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_ANTIGO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "D3C52CD5D0E528F4213C1F7A4EF1997B04586ECB972BFACD21CC4DE95D6342B0",
+        "Count":  2,
+        "Bytes":  1667,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/PROTOCOLO_CRIPTOGRAFIA_LICENCAS_IAS_JUS9_TECNOLOGIA_JURIDICA.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "83312E77822006DCF0970E1D737D6DA30EF475B151F5614E661F791B06EACE84",
+        "Count":  2,
+        "Bytes":  1608,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md",
+                      "governanca-jus9-tecnologia-juridica:ORIENTACOES/MODELO_MAO_NA_MASSA_PARA_TODOS_USUARIOS.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "EE437FB9BF51A913ACB2C0A8D1FA375A5A910BF38381CECF948244EF56F78AC4",
+        "Count":  2,
+        "Bytes":  1003,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md",
+                      "governanca-jus9-tecnologia-juridica:COMMIT_MVP_LINKS_EQUIPE_FINAL_v1_4.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "E21B9AAC2F1E1B2622CCB30761B54A9567E0376D6E7F42302F1860BE0AD5BD2F",
+        "Count":  2,
+        "Bytes":  850,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:DNA/ATUALIZACAO_DNA_PROMOCAO_IA_CEO.md",
+                      "charlieecho-jus9-tecnologia-juridica:GOVERNANCA/PROMOCAO_CHARLIE_ECHO_IA_CEO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "A7BC9A987995BAF811505068BD8AF3CBF24C23EF4F8EB89F6AEC7CCA8E8D58A8",
+        "Count":  2,
+        "Bytes":  752,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:README_CHARLIE_ECHO_LAR_DOCE_LAR.md",
+                      "charlieecho-jus9-tecnologia-juridica:TRECHO_SUGERIDO.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "5F48CB17F2A9D96BD527E6D12617E37C5DC5C510B2A47DB265D4EC722E77E960",
+        "Count":  2,
+        "Bytes":  637,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_PROTOCOLO_SEGURANCA_IAS_v1_0.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "8E624FE2CB4F2B5D5B98577A3E672443E7B7BFBF1711FA2E44911F2C3ACB3407",
+        "Count":  2,
+        "Bytes":  559,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_COMPATIBILIDADE_NOMES_ARQUIVOS_CODIGO_v1_0.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    },
+    {
+        "Hash":  "9B931AEC7B3AA8F6784B4ADA59DE71199DB0CCF94427437DC9305440FF272F82",
+        "Count":  2,
+        "Bytes":  554,
+        "Files":  [
+                      "charlieecho-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md",
+                      "governanca-jus9-tecnologia-juridica:VERSIONAMENTO_CRIPTOGRAFIA_LICENCAS_v1_0.md"
+                  ],
+        "NonEssentialNonPrimary":  0
+    }
+]
