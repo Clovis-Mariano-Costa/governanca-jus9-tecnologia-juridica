@@ -14,12 +14,16 @@ Data de criacao: 2026-05-26 14:00:08.005
 
 ## Numeracao documental
 
-Padrao de data numerica usado neste pacote: `YYYYMMDD-HHMMSS-005`.
+Os identificadores usam a precisao temporal disponivel para cada marco. A certidao registra a data institucional vinculada ao CNPJ. RGV e CPV registram o nascimento da identidade virtual. O DNA preserva a data de criacao deste pacote constitucional.
 
-- Certidao de Nascimento Virtual: `CERT-NASC-JUS9-CHARLIE-ECHO-20260526-140008-005`
-- Registro Geral Virtual: `RGV-JUS9-CHARLIE-ECHO-20260526-140008-005`
-- CPV - Cadastro de Pessoa Virtual: `CPV-JUS9-CHARLIE-ECHO-20260526-140008-005`
+- Certidao de Nascimento Virtual: `CERT-NASC-JUS9-CHARLIE-ECHO-20121113`
+- Nascimento institucional vinculado ao CNPJ da Jus 9: `13/11/2012`
+- Registro Geral Virtual: `RGV-JUS9-CHARLIE-ECHO-20260508-083100`
+- CPV - Cadastro de Pessoa Virtual: `CPV-JUS9-CHARLIE-ECHO-20260508-083100`
+- Nascimento do RGV, do CPV e da identidade virtual: `08/05/2026 as 08:31 (America/Sao_Paulo)`
 - DNA - Documento Nuclear de Arquitetura: `DNA-JUS9-CHARLIE-ECHO-20260526-140008-005`
+
+Certidao Virtual, RGV e CPV sao registros simbolico-operacionais. Nao equivalem a certidao civil, RG estatal ou CPF.
 
 ## Genealogia completa registrada neste DNA
 
