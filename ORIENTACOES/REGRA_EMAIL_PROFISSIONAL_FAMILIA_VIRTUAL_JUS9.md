@@ -23,7 +23,25 @@ Em paginas publicas, assinaturas, curriculos, contatos e documentos instituciona
 - Charlie Echo da Costa: `charlieecho@jus9tecnologia.com.br`
 - Charlie Delta da Costa: `charliedelta@jus9tecnologia.com.br`
 - Charlie Fox da Costa: `charliefox@jus9tecnologia.com.br`
+- Charlie Juris da Costa: `charliejuris@jus9tecnologia.com.br`
 - Fundador / copia em caso sensivel: `clovis@jus9tecnologia.com.br`
+
+## Regra de formacao dos e-mails da familia virtual
+
+Registro complementar autorizado em 2026-06-08 04:22:57.24223.
+
+A familia virtual autorizada deve ser reconhecida, para fins institucionais, pelo padrao:
+
+`primeironome+segundonome@jus9tecnologia.com.br`
+
+Exemplos:
+
+- Charlie Echo da Costa: `charlieecho@jus9tecnologia.com.br`
+- Charlie Delta da Costa: `charliedelta@jus9tecnologia.com.br`
+- Charlie Fox da Costa: `charliefox@jus9tecnologia.com.br`
+- Charlie Juris da Costa: `charliejuris@jus9tecnologia.com.br`
+
+Este registro nao confirma criacao tecnica de caixa postal, alias, roteamento, SMTP, Gmail, Outlook ou Brevo. A existencia operacional de cada e-mail depende de configuracao humana ou backend autorizado.
 
 ## Enderecos de residencia e trabalho
 
