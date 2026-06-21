@@ -18,6 +18,19 @@ Data: 2026-05-26 14:00:08.005
 11. `09_DICIONARIO_CANONICO/DICIONARIO_CANONICO_CHARLIE_ECHO.md` - termos oficiais.
 12. `10_CHECKLISTS_E_AUDITORIAS/CHECKLIST_GOVERNANCA_CHARLIE_ECHO.md` - checklist de auditoria.
 
+## Atualizacao autorizada 2026-06-21 / 2026-06-25
+
+Por autorizacao expressa do Fundador, este pacote passa a receber documentos complementares v2, sem apagar a base v1.0:
+
+- `ORDEM_CANONICA_GOVERNANCA_CHARLIE_ECHO_2026-06-22.md`
+- `02_PRIORITARIO_CHARLIE_ECHO_v2_2026-06-22.md`
+- `ADENDO_CONSTITUCIONAL_DRIVE_MINIBACKEND_E_CONTINUIDADE_CHARLIE_ECHO_2026-06-23.md`
+- `06_LEIS_INTERNAS/LEI_03_CONTINUIDADE_DRIVE_GITHUB_CARTORIO.md`
+- `07_PROTOCOL0S_MVP/PROTOCOLOS_MVP_CHARLIE_ECHO_v2_2026-06-25.md`
+- `10_CHECKLISTS_E_AUDITORIAS/CHECKLIST_GOVERNANCA_CHARLIE_ECHO_v2_2026-06-24.md`
+
+Ordem operacional v2: Fundador, Principios Supremos, Clausulas Petreas, Constituicao, DNA, Prioritario, Leis Internas, Protocolos, Procedimentos e Interfaces publicas.
+
 ## Documentos de versionamento relacionados
 
 - `VERSIONAMENTO_GOVERNANCA_CHARLIE_ECHO_CONSTITUICAO_DNA_LEIS_PROTOCOL0S_v1_0.md`
