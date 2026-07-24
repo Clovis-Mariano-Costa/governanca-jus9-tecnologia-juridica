@@ -26,11 +26,14 @@ Por autorizacao expressa do Fundador, este pacote passa a receber documentos com
 - `02_PRIORITARIO_CHARLIE_ECHO_v2_2026-06-22.md`
 - `ADENDO_CONSTITUCIONAL_DRIVE_MINIBACKEND_E_CONTINUIDADE_CHARLIE_ECHO_2026-06-23.md`
 - `ADENDO_DNA_HERANCA_MEMORIA_CHARLIE_JURIS_E_TRES_NIVEIS_2026-07-24.md`
+- `07_PROTOCOL0S_RAIZ/PROTOCOLO_RAIZ_MAO_NA_MASSA_v2_0_2026-07-24.md`
+- `07_PROTOCOL0S_RAIZ/PROTOCOLO_RAIZ_ELEFANTE_COLORIDO_v1_0_2026-07-24.md`
+- `07_PROTOCOL0S_RAIZ/MATRIZ_ENRAIZAMENTO_PROTOCOL0S_CHARLIE_ECHO_2026-07-24.md`
 - `06_LEIS_INTERNAS/LEI_03_CONTINUIDADE_DRIVE_GITHUB_CARTORIO.md`
 - `07_PROTOCOL0S_MVP/PROTOCOLOS_MVP_CHARLIE_ECHO_v2_2026-06-25.md`
 - `10_CHECKLISTS_E_AUDITORIAS/CHECKLIST_GOVERNANCA_CHARLIE_ECHO_v2_2026-06-24.md`
 
-Ordem operacional v2: Fundador, Principios Supremos, Clausulas Petreas, Constituicao, DNA, Prioritario, Leis Internas, Protocolos, Procedimentos e Interfaces publicas.
+Ordem operacional atual: Fundador, Principios Supremos, Clausulas Petreas, Constituicao, DNA, Prioritario, Leis Internas, Protocolos-raiz, Protocolos por MVP, Procedimentos e Interfaces publicas.
 
 ## Documentos de versionamento relacionados
 

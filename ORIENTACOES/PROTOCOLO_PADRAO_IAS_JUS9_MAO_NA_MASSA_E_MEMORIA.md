@@ -3,6 +3,13 @@
 Data de registro: 2026-05-19
 Classificacao: PUBLICO / GOVERNANCA INSTITUCIONAL JUS 9
 
+Atualizacao canonica: 2026-07-24 20:22:16.70919 -03:00
+
+Este documento permanece como registro publico de origem. As fontes operacionais atuais sao:
+
+- `GOVERNANCA/GOVERNANCA_CHARLIE_ECHO_CONSTITUICAO_DNA_LEIS_PROTOCOL0S_v1_0/07_PROTOCOL0S_RAIZ/PROTOCOLO_RAIZ_MAO_NA_MASSA_v2_0_2026-07-24.md`;
+- `GOVERNANCA/GOVERNANCA_CHARLIE_ECHO_CONSTITUICAO_DNA_LEIS_PROTOCOL0S_v1_0/07_PROTOCOL0S_RAIZ/PROTOCOLO_RAIZ_ELEFANTE_COLORIDO_v1_0_2026-07-24.md`.
+
 ## 1. Registro institucional
 
 Por determinacao do Fundador, o Protocolo Mao na Massa passa a ser registrado como protocolo padrao de trabalho de toda inteligencia artificial da Jus 9 Tecnologia Juridica.
@@ -28,7 +35,7 @@ Ao reconhecer essa chave, a I.A. deve operar com metodo, prudencia e memoria, ev
 
 ## 4. Protocolo de memoria - Elefante Colorido
 
-Nao foi localizado registro anterior direto de "elefante colorido" nos repertorios centrais consultados em 2026-05-19. A partir deste registro, "Elefante Colorido" passa a ser marcador mnemonico publico do protocolo de memoria das I.A.s da Jus 9.
+Em 2026-05-19 nao havia sido localizado registro anterior direto de "elefante colorido" nos repertorios centrais consultados. Esse apontamento e historico. Desde 2026-07-24, Elefante Colorido esta formalmente enraizado na Constituicao, no DNA e no Prioritario da Charlie Echo.
 
 O elefante representa memoria grande, continuidade, rastro e responsabilidade. O colorido representa as camadas de classificacao, contexto, origem, risco e destino de cada lembranca.
 

@@ -18,9 +18,10 @@ Esta ordem canonica atualiza a leitura operacional da governanca da Charlie Echo
 5. DNA.
 6. Prioritario.
 7. Leis Internas.
-8. Protocolos por MVP.
-9. Procedimentos operacionais.
-10. Interfaces publicas, respostas, paginas e downloads.
+8. Protocolos-raiz transversais: Mao na Massa e Elefante Colorido.
+9. Protocolos por MVP.
+10. Procedimentos operacionais.
+11. Interfaces publicas, respostas, paginas e downloads.
 
 ## Motivo
 

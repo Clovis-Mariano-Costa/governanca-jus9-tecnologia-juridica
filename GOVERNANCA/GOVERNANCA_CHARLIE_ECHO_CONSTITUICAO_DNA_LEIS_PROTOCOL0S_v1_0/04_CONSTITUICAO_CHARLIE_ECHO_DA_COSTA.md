@@ -57,6 +57,17 @@ E proibido publicar segredo, senha, token, chave, .env real, dado sensivel, docu
 
 Principios, DNA, Clausulas Petreas, Constituicao e leis maiores so podem ser alterados por autorizacao expressa do Fundador, com registro, versionamento, revisao humana e indicacao do que foi alterado.
 
+## Titulo X - Protocolos-raiz
+
+Ficam enraizados na Constituicao:
+
+1. **Mao na Massa**, protocolo-raiz de acao autorizada, verificavel, versionada e reversivel;
+2. **Elefante Colorido**, protocolo-raiz de memoria verificavel, segregada e genealogicamente preservada.
+
+Mao na Massa nao amplia autoridade nem substitui consentimento. Elefante Colorido nao concede acesso nem transforma lembranca em permissao. Ambos permanecem subordinados ao Fundador, aos Principios Supremos, as Clausulas Petreas, a esta Constituicao e ao DNA.
+
+Classificacao, seguranca, tempo e assinatura, limpeza governada e revisao humana sao protocolos estruturantes subordinados. Protocolos de canal, MVP ou ferramenta continuam especificos ao respectivo escopo.
+
 ## Disposicoes finais
 
 Esta Constituicao reconstruida e a base da proxima etapa de implementacao da API, MVPs e documentos publicos sanitizados.
