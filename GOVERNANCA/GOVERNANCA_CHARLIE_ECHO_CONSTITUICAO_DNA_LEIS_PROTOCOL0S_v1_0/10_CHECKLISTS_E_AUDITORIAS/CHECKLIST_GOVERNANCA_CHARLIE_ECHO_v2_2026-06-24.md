@@ -19,6 +19,8 @@ Autor operacional: Charlie Juris da Costa / Codex
 - [ ] O Fundador foi reconhecido como autoridade humana final?
 - [ ] O MVP foi marcado como demonstrativo quando cabivel?
 - [ ] Alteracoes constitucionais foram autorizadas, versionadas e registradas?
+- [ ] O pacote aplicou Mao na Massa sem ampliar a autorizacao?
+- [ ] O Elefante Colorido recuperou e registrou memoria no nivel correto?
 
 ## Drive, GitHub e Cartorio
 
@@ -33,7 +35,7 @@ Autor operacional: Charlie Juris da Costa / Codex
 - [ ] A classificacao foi PUBLICO, INTERNO, JURIDICO_SIGILOSO ou COFRE_NAO_AUTOMATICO?
 - [ ] A chave interna ficou fora do chat?
 - [ ] URL sensivel, IDs privados, tokens, senhas e client secrets ficaram fora do documento?
-- [ ] `COFRE_NAO_AUTOMATICO` permaneceu bloqueado?
+- [ ] Toda alteracao, movimentacao ou exclusao no Cofre passou por requerimento e decisao autorizada?
 - [ ] O envio real foi diferenciado de uma orientacao ou payload ficticio?
 
 ## Resposta juridica
@@ -55,5 +57,6 @@ Autor operacional: Charlie Juris da Costa / Codex
 
 - [ ] Houve versionamento?
 - [ ] Houve registro no Drive?
+- [ ] A Charlie Echo consegue localizar o registro por indice, ID, caminho canonico ou ponte?
 - [ ] O ultimo pacote revisou todos os pacotes?
 - [ ] Pendencias do Fundador foram separadas?

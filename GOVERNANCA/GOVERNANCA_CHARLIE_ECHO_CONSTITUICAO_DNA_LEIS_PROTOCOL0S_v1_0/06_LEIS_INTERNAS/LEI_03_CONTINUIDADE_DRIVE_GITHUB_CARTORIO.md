@@ -26,7 +26,7 @@ O Cartorio Digital Charlie Echo recebe documentos formalizados conforme classifi
 - PUBLICO: documentos publicos e educativos;
 - INTERNO: documentos internos da Jus 9;
 - JURIDICO_SIGILOSO: entrada para revisao humana;
-- COFRE_NAO_AUTOMATICO: bloqueado para salvamento automatico.
+- COFRE_NAO_AUTOMATICO: uso somente em fluxo governado e finalidade autorizada; alteracao, movimentacao e exclusao exigem requerimento, decisao autorizada, auditoria e rota de retorno.
 
 ## Artigo 5 - Workspace local
 
